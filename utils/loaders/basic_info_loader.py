@@ -5,7 +5,6 @@ from utils.handlers.progress_handler import ProgressHandler
 from utils.loaders.base_loader import BaseLoader
 
 class BasicInfoLoader(BaseLoader):
-    ROLE = "Loader"
     BASE_URL = "https://ddragon.leagueoflegends.com/cdn"
     VERSIONS_URL = "https://ddragon.leagueoflegends.com/api/versions.json"
 

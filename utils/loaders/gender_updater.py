@@ -4,7 +4,7 @@ from utils.handlers.print_handler import PrintHandler
 from utils.handlers.progress_handler import ProgressHandler
 from utils.loaders.base_loader import BaseLoader
 
-class GenderEnricher(BaseLoader):
+class GenderUpdater(BaseLoader):
     BASE_URL = "https://lol.fandom.com/wiki/"
 
     def fetch_pronouns(self, champ_name):
@@ -24,10 +24,10 @@ class GenderEnricher(BaseLoader):
 
 
     def run(self):
-        PrintHandler.section("Enriching Genders")
+        PrintHandler.section("Updating Genders")
         count, errors = 0, 0
 
-        for champ in ProgressHandler.wrap(self.champions, description="Enriching genders"):
+        for champ in ProgressHandler.wrap(self.champions, description="Updating genders"):
             if (current_gender := champ.get("gender", "").lower()) in ["female", "male"]:
                 continue
 
@@ -35,9 +35,9 @@ class GenderEnricher(BaseLoader):
                 if fandom_gender := self.fetch_pronouns(champ["name"]):
                     champ["gender"] = fandom_gender
                     count += 1
-                    self.success(f"{champ['name']} → {fandom_gender}")
+                    self.success(f"{champ['name']} -> {fandom_gender}")
             except Exception as e:
                 errors += 1
-                PrintHandler.error(f"{champ['name']} → ERROR: {e}")
+                PrintHandler.error(f"{champ['name']} -> ERROR: {e}")
 
-        self.log(f"Gender enrichment completed. {count} champions updated, {errors} errors.")
+        PrintHandler.info(f"Gender Updater completed. {count} champions updated, {errors} errors.")

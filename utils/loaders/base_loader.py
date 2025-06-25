@@ -3,8 +3,6 @@ import requests
 from utils.handlers.print_handler import PrintHandler
 
 class BaseLoader:
-    ROLE = "Enricher"
-
     GENDER_MAP = {
         "she": "Female",
         "her": "Female",
@@ -29,7 +27,7 @@ class BaseLoader:
         parts = base.split()
         variants = []
 
-        # If '&' is present → add first part first
+        # If '&' is present -> add first part first
         if "&" in name:
             first = name.split("&")[0].strip()
             first_slug = re.sub(r"[^a-zA-Z0-9]", "", first).lower()

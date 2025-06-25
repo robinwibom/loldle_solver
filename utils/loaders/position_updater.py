@@ -5,7 +5,7 @@ from utils.handlers.print_handler import PrintHandler
 from utils.handlers.progress_handler import ProgressHandler
 from utils.loaders.base_loader import BaseLoader
 
-class PositionEnricher(BaseLoader):
+class PositionUpdater(BaseLoader):
     BASE_URL = "https://lolalytics.com/lol/"
 
     def slugify(self, name):
@@ -31,10 +31,10 @@ class PositionEnricher(BaseLoader):
         return positions
 
     def run(self):
-        PrintHandler.section("Enriching Positions")
+        PrintHandler.section("Updating Positions")
         count = 0
 
-        for champ in ProgressHandler.wrap(self.champions, description="Enriching positions"):
+        for champ in ProgressHandler.wrap(self.champions, description="Updating positions"):
             if champ.get("positions"):
                 continue
 
@@ -42,9 +42,9 @@ class PositionEnricher(BaseLoader):
                 if positions := self.fetch_positions(champ["name"]):
                     champ["positions"] = positions
                     count += 1
-                    self.success(f"{champ['name']} → {positions}")
+                    self.success(f"{champ['name']} -> {positions}")
             except Exception as e:
                 errors += 1
-                PrintHandler.error(f"{champ['name']} → ERROR: {e}")
+                PrintHandler.error(f"{champ['name']} -> ERROR: {e}")
 
-        PrintHandler.info(f"Position enrichment completed. {count} champions updated.")
+        PrintHandler.info(f"Position update completed. {count} champions updated.")

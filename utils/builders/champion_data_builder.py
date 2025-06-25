@@ -1,6 +1,6 @@
 from utils.loaders.basic_info_loader import BasicInfoLoader
-from utils.loaders.gender_enricher import GenderEnricher
-from utils.loaders.position_enricher import PositionEnricher
+from utils.loaders.gender_updater import GenderUpdater
+from utils.loaders.position_updater import PositionUpdater
 from utils.handlers.print_handler import PrintHandler
 from utils.handlers.json_handler import JsonHandler
 
@@ -18,13 +18,13 @@ class ChampionDataBuilder:
         PrintHandler.section("Step 1: Basic Info")
         self.version, self.champions = BasicInfoLoader(verbose=self.verbose).run()
 
-        # Step 2: Enrich gender
-        PrintHandler.section("Step 2: Gender Enrichment")
-        GenderEnricher(self.champions, verbose=self.verbose).run()
+        # Step 2: Update gender
+        PrintHandler.section("Step 2: Gender Updater")
+        GenderUpdater(self.champions, verbose=self.verbose).run()
 
-        # Step 3: Enrich positions
-        PrintHandler.section("Step 3: Position Enrichment")
-        PositionEnricher(self.champions, verbose=self.verbose).run()
+        # Step 3: Update positions
+        PrintHandler.section("Step 3: Position Updater")
+        PositionUpdater(self.champions, verbose=self.verbose).run()
 
         # Final save
         JsonHandler.save(self.output_path, {
