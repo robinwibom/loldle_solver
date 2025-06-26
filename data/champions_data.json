@@ -1,1403 +1,2037 @@
-{
-  "version": "15.13.1",
-  "champions": [
-    {
-      "name": "Aatrox",
-      "resource": "Blood Well",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Ahri",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Akali",
-      "resource": "Energy",
-      "gender": "Female",
-      "positions": [
-        "Top",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Akshan",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Alistar",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Ambessa",
-      "resource": "Energy",
-      "gender": "Female",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Amumu",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Anivia",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Annie",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Aphelios",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Ashe",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Aurelion Sol",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Aurora",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Azir",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Bard",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Bel'Veth",
-      "resource": "",
-      "gender": "Female",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Blitzcrank",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Brand",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Braum",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Briar",
-      "resource": "Fury",
-      "gender": "Female",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Caitlyn",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Camille",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Cassiopeia",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Top",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Cho'Gath",
-      "resource": "Mana",
-      "gender": "Other",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Corki",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle",
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Darius",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Diana",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Jungle",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Draven",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Dr. Mundo",
-      "resource": "None",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Ekko",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Elise",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Jungle",
-        "Support"
-      ]
-    },
-    {
-      "name": "Evelynn",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Ezreal",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Fiddlesticks",
-      "resource": "Mana",
-      "gender": "Other",
-      "positions": [
-        "Jungle",
-        "Support"
-      ]
-    },
-    {
-      "name": "Fiora",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Fizz",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Galio",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Gangplank",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Garen",
-      "resource": "None",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Gnar",
-      "resource": "Rage",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Gragas",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Graves",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Gwen",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Top",
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Hecarim",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Heimerdinger",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Hwei",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Illaoi",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Irelia",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Top",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Ivern",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Janna",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Jarvan IV",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Jax",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Jayce",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Jhin",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Jinx",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Kai'Sa",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Kalista",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Karma",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Karthus",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Kassadin",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Katarina",
-      "resource": "None",
-      "gender": "Female",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Kayle",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Top",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Kayn",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Kennen",
-      "resource": "Energy",
-      "gender": "Male",
-      "positions": [
-        "Top",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Kha'Zix",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Kindred",
-      "resource": "Mana",
-      "gender": "Other",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Kled",
-      "resource": "Courage",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Kog'Maw",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "K'Sante",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "LeBlanc",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Lee Sin",
-      "resource": "Energy",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Leona",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Lillia",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Lissandra",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Lucian",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Lulu",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Lux",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Middle",
-        "Support"
-      ]
-    },
-    {
-      "name": "Malphite",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Malzahar",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Maokai",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Master Yi",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Mel",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Middle",
-        "Support"
-      ]
-    },
-    {
-      "name": "Milio",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Miss Fortune",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Wukong",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top",
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Mordekaiser",
-      "resource": "Shield",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Morgana",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Naafiri",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Nami",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Nasus",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Nautilus",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Neeko",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Middle",
-        "Support"
-      ]
-    },
-    {
-      "name": "Nidalee",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Nilah",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Nocturne",
-      "resource": "Mana",
-      "gender": "Other",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Nunu & Willump",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Olaf",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Orianna",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Ornn",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Pantheon",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle",
-        "Support"
-      ]
-    },
-    {
-      "name": "Poppy",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Top",
-        "Jungle",
-        "Support"
-      ]
-    },
-    {
-      "name": "Pyke",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Qiyana",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Jungle",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Quinn",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Rakan",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Rammus",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Rek'Sai",
-      "resource": "Rage",
-      "gender": "Female",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Rell",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Renata Glasc",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Renekton",
-      "resource": "Fury",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Rengar",
-      "resource": "Ferocity",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Riven",
-      "resource": "None",
-      "gender": "Female",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Rumble",
-      "resource": "Heat",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Ryze",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Samira",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Sejuani",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Senna",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Bottom",
-        "Support"
-      ]
-    },
-    {
-      "name": "Seraphine",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Sett",
-      "resource": "Grit",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Shaco",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle",
-        "Support"
-      ]
-    },
-    {
-      "name": "Shen",
-      "resource": "Energy",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Shyvana",
-      "resource": "Fury",
-      "gender": "Female",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Singed",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Sion",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Sivir",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Skarner",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Smolder",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Sona",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Soraka",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Swain",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle",
-        "Support"
-      ]
-    },
-    {
-      "name": "Sylas",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Syndra",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Tahm Kench",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top",
-        "Support"
-      ]
-    },
-    {
-      "name": "Taliyah",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Talon",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Taric",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Teemo",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Thresh",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Tristana",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Trundle",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top",
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Tryndamere",
-      "resource": "Fury",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Twisted Fate",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Twitch",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Udyr",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top",
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Urgot",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Varus",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Vayne",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Veigar",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Vel'Koz",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle",
-        "Support"
-      ]
-    },
-    {
-      "name": "Vex",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Vi",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Viego",
-      "resource": "None",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Viktor",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Vladimir",
-      "resource": "Crimson Rush",
-      "gender": "Male",
-      "positions": [
-        "Top",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Volibear",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top",
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Warwick",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top",
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Xayah",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Xerath",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle",
-        "Support"
-      ]
-    },
-    {
-      "name": "Xin Zhao",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Yasuo",
-      "resource": "Flow",
-      "gender": "Male",
-      "positions": [
-        "Top",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Yone",
-      "resource": "Flow",
-      "gender": "Male",
-      "positions": [
-        "Top",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Yorick",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Top"
-      ]
-    },
-    {
-      "name": "Yuumi",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Zac",
-      "resource": "None",
-      "gender": "Male",
-      "positions": [
-        "Jungle"
-      ]
-    },
-    {
-      "name": "Zed",
-      "resource": "Energy",
-      "gender": "Male",
-      "positions": [
-        "Jungle",
-        "Middle"
-      ]
-    },
-    {
-      "name": "Zeri",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Ziggs",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Middle",
-        "Bottom"
-      ]
-    },
-    {
-      "name": "Zilean",
-      "resource": "Mana",
-      "gender": "Male",
-      "positions": [
-        "Support"
-      ]
-    },
-    {
-      "name": "Zoe",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Middle"
-      ]
-    },
-    {
-      "name": "Zyra",
-      "resource": "Mana",
-      "gender": "Female",
-      "positions": [
-        "Jungle",
-        "Support"
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Aatrox",
+    "resource": "Blood Well",
+    "gender": "Male",
+    "region": [
+      "Runeterra"
+    ],
+    "species": [
+      "Darkin"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Ahri",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Vesani"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Akali",
+    "resource": "Energy",
+    "gender": "Female",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Top",
+      "Middle"
+    ]
+  },
+  {
+    "name": "Akshan",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Shurima"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Alistar",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Runeterra"
+    ],
+    "species": [
+      "Minotaur"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Ambessa",
+    "resource": "Energy",
+    "gender": "Female",
+    "region": [
+      "Piltover",
+      "Noxus"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Amumu",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Shurima"
+    ],
+    "species": [
+      "Yordle"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Anivia",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Freljord"
+    ],
+    "species": [
+      "Spirit God"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Annie",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Runeterra"
+    ],
+    "species": [
+      "Human",
+      "Magical",
+      "Magically Altered"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Aphelios",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Targon"
+    ],
+    "species": [
+      "Human",
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "name": "Ashe",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Freljord"
+    ],
+    "species": [
+      "Human",
+      "Iceborn"
+    ],
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "name": "Aurelion Sol",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Runeterra",
+      "Targon"
+    ],
+    "species": [
+      "Celestial Dragon"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Aurora",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Freljord"
+    ],
+    "species": [
+      "Bryni"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Azir",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Shurima"
+    ],
+    "species": [
+      "God-Warrior"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Bard",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Runeterra"
+    ],
+    "species": [
+      "Celestial"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Bel'Veth",
+    "resource": "",
+    "gender": "Female",
+    "region": [
+      "Void"
+    ],
+    "species": [
+      "Voidborn"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Blitzcrank",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Zaun"
+    ],
+    "species": [
+      "Techmaturgical",
+      "Golem"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Brand",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Runeterra"
+    ],
+    "species": [
+      "Human",
+      "Magical",
+      "Magically Altered"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Braum",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Freljord"
+    ],
+    "species": [
+      "Human",
+      "Iceborn"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Briar",
+    "resource": "Fury",
+    "gender": "Female",
+    "region": [
+      "Noxus"
+    ],
+    "species": [
+      "Blood Golem"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Caitlyn",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Piltover"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "name": "Camille",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Piltover"
+    ],
+    "species": [
+      "Human",
+      "Cyborg"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Cassiopeia",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Noxus"
+    ],
+    "species": [
+      "Human",
+      "Magically Altered"
+    ],
+    "positions": [
+      "Top",
+      "Middle"
+    ]
+  },
+  {
+    "name": "Cho'Gath",
+    "resource": "Mana",
+    "gender": "Other",
+    "region": [
+      "Void"
+    ],
+    "species": [
+      "Voidborn"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Corki",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Bandle City"
+    ],
+    "species": [
+      "Spirit",
+      "Yordle"
+    ],
+    "positions": [
+      "Middle",
+      "Bottom"
+    ]
+  },
+  {
+    "name": "Darius",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Noxus"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Diana",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Targon"
+    ],
+    "species": [
+      "Aspect Host",
+      "Human"
+    ],
+    "positions": [
+      "Jungle",
+      "Middle"
+    ]
+  },
+  {
+    "name": "Draven",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Noxus"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "name": "Dr. Mundo",
+    "resource": "None",
+    "gender": "Male",
+    "region": [
+      "Zaun"
+    ],
+    "species": [
+      "Human",
+      "Chemically Altered"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Ekko",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Zaun"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Jungle",
+      "Middle"
+    ]
+  },
+  {
+    "name": "Elise",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Shadow Isles"
+    ],
+    "species": [
+      "Human",
+      "Magically Altered"
+    ],
+    "positions": [
+      "Jungle",
+      "Support"
+    ]
+  },
+  {
+    "name": "Evelynn",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Runeterra"
+    ],
+    "species": [
+      "Demon"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Ezreal",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Piltover"
+    ],
+    "species": [
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "name": "Fiddlesticks",
+    "resource": "Mana",
+    "gender": "Other",
+    "region": [
+      "Runeterra"
+    ],
+    "species": [
+      "Demon"
+    ],
+    "positions": [
+      "Jungle",
+      "Support"
+    ]
+  },
+  {
+    "name": "Fiora",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Demacia"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Fizz",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Bilgewater"
+    ],
+    "species": [
+      "Yordle"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Galio",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Demacia"
+    ],
+    "species": [
+      "Petricite",
+      "Golem"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Gangplank",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Bilgewater"
+    ],
+    "species": [
+      "Human",
+      "Cyborg"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Garen",
+    "resource": "None",
+    "gender": "Male",
+    "region": [
+      "Demacia"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Gnar",
+    "resource": "Rage",
+    "gender": "Male",
+    "region": [
+      "Freljord"
+    ],
+    "species": [
+      "Yordle"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Gragas",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Freljord"
+    ],
+    "species": [
+      "Human",
+      "Iceborn"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Graves",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Bilgewater"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Gwen",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Shadow Isles",
+      "Camavor"
+    ],
+    "species": [
+      "Human",
+      "Magically Altered",
+      "[1]"
+    ],
+    "positions": [
+      "Top",
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Hecarim",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Shadow Isles"
+    ],
+    "species": [
+      "Wraith"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Heimerdinger",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Piltover"
+    ],
+    "species": [
+      "Yordle"
+    ],
+    "positions": [
+      "Top",
+      "Middle"
+    ]
+  },
+  {
+    "name": "Hwei",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Illaoi",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Bilgewater"
+    ],
+    "species": [
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Irelia",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Top",
+      "Middle"
+    ]
+  },
+  {
+    "name": "Ivern",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Human",
+      "Magically Altered"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Janna",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Zaun"
+    ],
+    "species": [
+      "Spirit God"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Jarvan IV",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Demacia"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Jax",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Runeterra"
+    ],
+    "species": [
+      "Sand-Troll"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Jayce",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Piltover"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Jhin",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "name": "Jinx",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Zaun"
+    ],
+    "species": [
+      "Human",
+      "Chemically Altered"
+    ],
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "name": "Kai'Sa",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Void"
+    ],
+    "species": [
+      "Human",
+      "Void Touched"
+    ],
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "name": "Kalista",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Shadow Isles"
+    ],
+    "species": [
+      "Wraith"
+    ],
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "name": "Karma",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Karthus",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Shadow Isles"
+    ],
+    "species": [
+      "Wraith"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Kassadin",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Void"
+    ],
+    "species": [
+      "Human",
+      "Void Touched"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Katarina",
+    "resource": "None",
+    "gender": "Female",
+    "region": [
+      "Noxus"
+    ],
+    "species": [
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Kayle",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Demacia",
+      "Mount Targon"
+    ],
+    "species": [
+      "Human",
+      "Magically Altered",
+      "Aspect Host"
+    ],
+    "positions": [
+      "Top",
+      "Middle"
+    ]
+  },
+  {
+    "name": "Kayn",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Human",
+      "Magically Altered",
+      "Darkin",
+      "Human",
+      "God-Warrior"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Kennen",
+    "resource": "Energy",
+    "gender": "Male",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Yordle"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Kha'Zix",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Void"
+    ],
+    "species": [
+      "Voidborn"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Kindred",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Runeterra"
+    ],
+    "species": [
+      "Spirit Gods"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Kled",
+    "resource": "Courage",
+    "gender": "Male",
+    "region": [
+      "Noxus"
+    ],
+    "species": [
+      "Yordle",
+      "Kled",
+      "Drakalops",
+      "Skaarl"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Kog'Maw",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Void"
+    ],
+    "species": [
+      "Voidborn"
+    ],
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "name": "K'Sante",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Shurima"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "LeBlanc",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Noxus"
+    ],
+    "species": [
+      "Human",
+      "Magical",
+      "Magically Altered"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Lee Sin",
+    "resource": "Energy",
+    "gender": "Male",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Leona",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Targon"
+    ],
+    "species": [
+      "Aspect Host",
+      "Human"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Lillia",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Fae Fawn"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Lissandra",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Freljord"
+    ],
+    "species": [
+      "Human",
+      "Iceborn"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Lucian",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Demacia",
+      "Blessed Isles"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "name": "Lulu",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Bandle City"
+    ],
+    "species": [
+      "Yordle"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Lux",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Demacia"
+    ],
+    "species": [
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Middle",
+      "Support"
+    ]
+  },
+  {
+    "name": "Malphite",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Ixtal"
+    ],
+    "species": [
+      "Elemental Golem"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Malzahar",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Void"
+    ],
+    "species": [
+      "Human",
+      "Void Touched"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Maokai",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Shadow Isles",
+      "Blessed Isles"
+    ],
+    "species": [
+      "Treant"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Master Yi",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Mel",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Piltover"
+    ],
+    "species": [
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Middle",
+      "Support"
+    ]
+  },
+  {
+    "name": "Milio",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Ixtal"
+    ],
+    "species": [
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Miss Fortune",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Bilgewater"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "name": "Wukong",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Shimon"
+    ],
+    "positions": [
+      "Top",
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Mordekaiser",
+    "resource": "Shield",
+    "gender": "Male",
+    "region": [
+      "Noxus"
+    ],
+    "species": [
+      "Revenant"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Morgana",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Demacia",
+      "Mount Targon"
+    ],
+    "species": [
+      "Human",
+      "Magically Altered",
+      "Aspect Host"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Naafiri",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Runeterra",
+      "Shurima"
+    ],
+    "species": [
+      "Darkin",
+      "Dune Hounds"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Nami",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Runeterra"
+    ],
+    "species": [
+      "Marai"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Nasus",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Shurima"
+    ],
+    "species": [
+      "God-Warrior"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Nautilus",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Bilgewater"
+    ],
+    "species": [
+      "Revenant"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Neeko",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Ixtal"
+    ],
+    "species": [
+      "Oovi-Kat"
+    ],
+    "positions": [
+      "Middle",
+      "Support"
+    ]
+  },
+  {
+    "name": "Nidalee",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Ixtal"
+    ],
+    "species": [
+      "Human",
+      "Magical",
+      "Vastayan"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Nilah",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Kathkan",
+      "Bilgewater"
+    ],
+    "species": [
+      "Human",
+      "Magically Altered",
+      "Demon"
+    ],
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "name": "Nocturne",
+    "resource": "Mana",
+    "gender": "Other",
+    "region": [
+      "Runeterra"
+    ],
+    "species": [
+      "Demon"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Nunu & Willump",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Freljord"
+    ],
+    "species": [
+      "Human",
+      "Magically Altered"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Olaf",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Freljord"
+    ],
+    "species": [
+      "Human",
+      "Iceborn",
+      "[1]"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Orianna",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Piltover"
+    ],
+    "species": [
+      "Techmaturgical",
+      "Golem"
+    ],
+    "positions": [
+      "Middle"
+    ]
+  },
+  {
+    "name": "Ornn",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Freljord"
+    ],
+    "species": [
+      "Spirit God"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Pantheon",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Targon"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Jungle",
+      "Support"
+    ]
+  },
+  {
+    "name": "Poppy",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Demacia"
+    ],
+    "species": [
+      "Yordle"
+    ],
+    "positions": [
+      "Top",
+      "Jungle",
+      "Support"
+    ]
+  },
+  {
+    "name": "Pyke",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Bilgewater"
+    ],
+    "species": [
+      "Revenant"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Qiyana",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Ixtal"
+    ],
+    "species": [
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Jungle",
+      "Middle"
+    ]
+  },
+  {
+    "name": "Quinn",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Demacia"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Rakan",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Lhotlan"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Rammus",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Shurima"
+    ],
+    "species": [
+      "Baccai"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Rek'Sai",
+    "resource": "Rage",
+    "gender": "Female",
+    "region": [
+      "Void"
+    ],
+    "species": [
+      "Xer'Sai"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Rell",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Noxus"
+    ],
+    "species": [
+      "Human",
+      "Magical",
+      "Magically Altered"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Renata Glasc",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Zaun"
+    ],
+    "species": [
+      "Human",
+      "Chemically Altered"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Renekton",
+    "resource": "Fury",
+    "gender": "Male",
+    "region": [
+      "Shurima"
+    ],
+    "species": [
+      "God-Warrior"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Rengar",
+    "resource": "Ferocity",
+    "gender": "Male",
+    "region": [
+      "Ixtal"
+    ],
+    "species": [
+      "Kiilash"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Riven",
+    "resource": "None",
+    "gender": "Female",
+    "region": [
+      "Ionia",
+      "Noxus"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Rumble",
+    "resource": "Heat",
+    "gender": "Male",
+    "region": [
+      "Bandle City"
+    ],
+    "species": [
+      "Yordle"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Ryze",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Runeterra"
+    ],
+    "species": [
+      "Human",
+      "Magical",
+      "Magically Altered"
+    ],
+    "positions": [
+      "Top",
+      "Middle"
+    ]
+  },
+  {
+    "name": "Samira",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Shurima",
+      "Noxus"
+    ],
+    "species": [
+      "Human"
+    ],
+    "positions": [
+      "Bottom"
+    ]
+  },
+  {
+    "name": "Sejuani",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Freljord"
+    ],
+    "species": [
+      "Human",
+      "Iceborn"
+    ],
+    "positions": [
+      "Jungle"
+    ]
+  },
+  {
+    "name": "Senna",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Blessed Isles"
+    ],
+    "species": [
+      "Wraith"
+    ],
+    "positions": [
+      "Bottom",
+      "Support"
+    ]
+  },
+  {
+    "name": "Seraphine",
+    "resource": "Mana",
+    "gender": "Female",
+    "region": [
+      "Piltover",
+      "Zaun"
+    ],
+    "species": [
+      "Human",
+      "Magical"
+    ],
+    "positions": [
+      "Support"
+    ]
+  },
+  {
+    "name": "Sett",
+    "resource": "Grit",
+    "gender": "Male",
+    "region": [
+      "Ionia"
+    ],
+    "species": [
+      "Human",
+      "Magical",
+      "Vastayan"
+    ],
+    "positions": [
+      "Top"
+    ]
+  },
+  {
+    "name": "Shaco",
+    "resource": "Mana",
+    "gender": "Male",
+    "region": [
+      "Runeterra"
+    ],
+    "species": [
+      "Unknown"
+    ],
+    "positions": [
+      "Jungle",
+      "Support"
+    ]
+  },
+  {
+    "name": "Shen",
+    "resource": "Energy",
+    "gender": "Male"
+  },
+  {
+    "name": "Shyvana",
+    "resource": "Fury",
+    "gender": "Female"
+  },
+  {
+    "name": "Singed",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Sion",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Sivir",
+    "resource": "Mana",
+    "gender": "Female"
+  },
+  {
+    "name": "Skarner",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Smolder",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Sona",
+    "resource": "Mana",
+    "gender": "Female"
+  },
+  {
+    "name": "Soraka",
+    "resource": "Mana",
+    "gender": "Female"
+  },
+  {
+    "name": "Swain",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Sylas",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Syndra",
+    "resource": "Mana",
+    "gender": "Female"
+  },
+  {
+    "name": "Tahm Kench",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Taliyah",
+    "resource": "Mana",
+    "gender": "Female"
+  },
+  {
+    "name": "Talon",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Taric",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Teemo",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Thresh",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Tristana",
+    "resource": "Mana",
+    "gender": "Female"
+  },
+  {
+    "name": "Trundle",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Tryndamere",
+    "resource": "Fury",
+    "gender": "Male"
+  },
+  {
+    "name": "Twisted Fate",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Twitch",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Udyr",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Urgot",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Varus",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Vayne",
+    "resource": "Mana",
+    "gender": "Female"
+  },
+  {
+    "name": "Veigar",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Vel'Koz",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Vex",
+    "resource": "Mana",
+    "gender": "Female"
+  },
+  {
+    "name": "Vi",
+    "resource": "Mana",
+    "gender": "Female"
+  },
+  {
+    "name": "Viego",
+    "resource": "None",
+    "gender": "Male"
+  },
+  {
+    "name": "Viktor",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Vladimir",
+    "resource": "Crimson Rush",
+    "gender": "Male"
+  },
+  {
+    "name": "Volibear",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Warwick",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Xayah",
+    "resource": "Mana",
+    "gender": "Female"
+  },
+  {
+    "name": "Xerath",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Xin Zhao",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Yasuo",
+    "resource": "Flow",
+    "gender": "Male"
+  },
+  {
+    "name": "Yone",
+    "resource": "Flow",
+    "gender": "Male"
+  },
+  {
+    "name": "Yorick",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Yuumi",
+    "resource": "Mana",
+    "gender": "Female"
+  },
+  {
+    "name": "Zac",
+    "resource": "None",
+    "gender": null
+  },
+  {
+    "name": "Zed",
+    "resource": "Energy",
+    "gender": "Male"
+  },
+  {
+    "name": "Zeri",
+    "resource": "Mana",
+    "gender": "Female"
+  },
+  {
+    "name": "Ziggs",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Zilean",
+    "resource": "Mana",
+    "gender": "Male"
+  },
+  {
+    "name": "Zoe",
+    "resource": "Mana",
+    "gender": "Female"
+  },
+  {
+    "name": "Zyra",
+    "resource": "Mana",
+    "gender": "Female"
+  }
+]

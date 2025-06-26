@@ -1,0 +1,1226 @@
+{
+  "fandom": {
+    "Aatrox": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Aatrox/LoL"
+    },
+    "Ahri": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Ahri/LoL"
+    },
+    "Akali": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Akali/LoL"
+    },
+    "Akshan": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Akshan/LoL"
+    },
+    "Alistar": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Alistar/LoL"
+    },
+    "Ambessa": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Ambessa/LoL"
+    },
+    "Amumu": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Amumu/LoL"
+    },
+    "Anivia": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Anivia/LoL"
+    },
+    "Annie": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Annie/LoL"
+    },
+    "Aphelios": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Aphelios/LoL"
+    },
+    "Ashe": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Ashe/LoL"
+    },
+    "Aurelion Sol": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Aurelion_Sol/LoL"
+    },
+    "Aurora": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Aurora/LoL"
+    },
+    "Azir": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Azir/LoL"
+    },
+    "Bard": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Bard/LoL"
+    },
+    "Bel'Veth": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Bel'Veth/LoL"
+    },
+    "Blitzcrank": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Blitzcrank/LoL"
+    },
+    "Brand": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Brand/LoL"
+    },
+    "Braum": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Braum/LoL"
+    },
+    "Briar": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Briar/LoL"
+    },
+    "Caitlyn": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Caitlyn/LoL"
+    },
+    "Camille": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Camille/LoL"
+    },
+    "Cassiopeia": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Cassiopeia/LoL"
+    },
+    "Cho'Gath": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Cho'Gath/LoL"
+    },
+    "Corki": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Corki/LoL"
+    },
+    "Darius": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Darius/LoL"
+    },
+    "Diana": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Diana/LoL"
+    },
+    "Draven": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Draven/LoL"
+    },
+    "Dr. Mundo": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Dr._Mundo/LoL"
+    },
+    "Ekko": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Ekko/LoL"
+    },
+    "Elise": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Elise/LoL"
+    },
+    "Evelynn": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Evelynn/LoL"
+    },
+    "Ezreal": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Ezreal/LoL"
+    },
+    "Fiddlesticks": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Fiddlesticks/LoL"
+    },
+    "Fiora": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Fiora/LoL"
+    },
+    "Fizz": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Fizz/LoL"
+    },
+    "Galio": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Galio/LoL"
+    },
+    "Gangplank": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Gangplank/LoL"
+    },
+    "Garen": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Garen/LoL"
+    },
+    "Gnar": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Gnar/LoL"
+    },
+    "Gragas": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Gragas/LoL"
+    },
+    "Graves": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Graves/LoL"
+    },
+    "Gwen": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Gwen/LoL"
+    },
+    "Hecarim": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Hecarim/LoL"
+    },
+    "Heimerdinger": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Heimerdinger/LoL"
+    },
+    "Hwei": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Hwei/LoL"
+    },
+    "Illaoi": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Illaoi/LoL"
+    },
+    "Irelia": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Irelia/LoL"
+    },
+    "Ivern": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Ivern/LoL"
+    },
+    "Janna": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Janna/LoL"
+    },
+    "Jarvan IV": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Jarvan_IV/LoL"
+    },
+    "Jax": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Jax/LoL"
+    },
+    "Jayce": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Jayce/LoL"
+    },
+    "Jhin": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Jhin/LoL"
+    },
+    "Jinx": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Jinx/LoL"
+    },
+    "Kai'Sa": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Kai'Sa/LoL"
+    },
+    "Kalista": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Kalista/LoL"
+    },
+    "Karma": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Karma/LoL"
+    },
+    "Karthus": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Karthus/LoL"
+    },
+    "Kassadin": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Kassadin/LoL"
+    },
+    "Katarina": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Katarina/LoL"
+    },
+    "Kayle": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Kayle/LoL"
+    },
+    "Kayn": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Kayn/LoL"
+    },
+    "Kennen": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Kennen/LoL"
+    },
+    "Kha'Zix": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Kha'Zix/LoL"
+    },
+    "Kindred": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Kindred/LoL"
+    },
+    "Kled": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Kled/LoL"
+    },
+    "Kog'Maw": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Kog'Maw/LoL"
+    },
+    "K'Sante": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/K'Sante/LoL"
+    },
+    "LeBlanc": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/LeBlanc/LoL"
+    },
+    "Lee Sin": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Lee_Sin/LoL"
+    },
+    "Leona": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Leona/LoL"
+    },
+    "Lillia": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Lillia/LoL"
+    },
+    "Lissandra": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Lissandra/LoL"
+    },
+    "Lucian": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Lucian/LoL"
+    },
+    "Lulu": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Lulu/LoL"
+    },
+    "Lux": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Lux/LoL"
+    },
+    "Malphite": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Malphite/LoL"
+    },
+    "Malzahar": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Malzahar/LoL"
+    },
+    "Maokai": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Maokai/LoL"
+    },
+    "Master Yi": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Master_Yi/LoL"
+    },
+    "Mel": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Mel/LoL"
+    },
+    "Milio": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Milio/LoL"
+    },
+    "Miss Fortune": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Miss_Fortune/LoL"
+    },
+    "Wukong": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Wukong/LoL"
+    },
+    "Mordekaiser": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Mordekaiser/LoL"
+    },
+    "Morgana": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Morgana/LoL"
+    },
+    "Naafiri": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Naafiri/LoL"
+    },
+    "Nami": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Nami/LoL"
+    },
+    "Nasus": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Nasus/LoL"
+    },
+    "Nautilus": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Nautilus/LoL"
+    },
+    "Neeko": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Neeko/LoL"
+    },
+    "Nidalee": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Nidalee/LoL"
+    },
+    "Nilah": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Nilah/LoL"
+    },
+    "Nocturne": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Nocturne/LoL"
+    },
+    "Nunu & Willump": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Nunu_&_Willump/LoL"
+    },
+    "Olaf": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Olaf/LoL"
+    },
+    "Orianna": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Orianna/LoL"
+    },
+    "Ornn": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Ornn/LoL"
+    },
+    "Pantheon": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Pantheon/LoL"
+    },
+    "Poppy": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Poppy/LoL"
+    },
+    "Pyke": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Pyke/LoL"
+    },
+    "Qiyana": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Qiyana/LoL"
+    },
+    "Quinn": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Quinn/LoL"
+    },
+    "Rakan": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Rakan/LoL"
+    },
+    "Rammus": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Rammus/LoL"
+    },
+    "Rek'Sai": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Rek'Sai/LoL"
+    },
+    "Rell": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Rell/LoL"
+    },
+    "Renata Glasc": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Renata_Glasc/LoL"
+    },
+    "Renekton": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Renekton/LoL"
+    },
+    "Rengar": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Rengar/LoL"
+    },
+    "Riven": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Riven/LoL"
+    },
+    "Rumble": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Rumble/LoL"
+    },
+    "Ryze": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Ryze/LoL"
+    },
+    "Samira": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Samira/LoL"
+    },
+    "Sejuani": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Sejuani/LoL"
+    },
+    "Senna": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Senna/LoL"
+    },
+    "Seraphine": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Seraphine/LoL"
+    },
+    "Sett": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Sett/LoL"
+    },
+    "Shaco": {
+      "failed": [],
+      "success": "https://leagueoflegends.fandom.com/wiki/Shaco/LoL"
+    }
+  },
+  "lolalytics": {
+    "Aatrox": {
+      "failed": [
+        "https://lolalytics.com/lol/Aatrox/build/"
+      ],
+      "success": "https://lolalytics.com/lol/aatrox/build/"
+    },
+    "Ahri": {
+      "failed": [
+        "https://lolalytics.com/lol/Ahri/build/"
+      ],
+      "success": "https://lolalytics.com/lol/ahri/build/"
+    },
+    "Akali": {
+      "failed": [
+        "https://lolalytics.com/lol/Akali/build/"
+      ],
+      "success": "https://lolalytics.com/lol/akali/build/"
+    },
+    "Akshan": {
+      "failed": [
+        "https://lolalytics.com/lol/Akshan/build/"
+      ],
+      "success": "https://lolalytics.com/lol/akshan/build/"
+    },
+    "Alistar": {
+      "failed": [
+        "https://lolalytics.com/lol/Alistar/build/"
+      ],
+      "success": "https://lolalytics.com/lol/alistar/build/"
+    },
+    "Ambessa": {
+      "failed": [
+        "https://lolalytics.com/lol/Ambessa/build/"
+      ],
+      "success": "https://lolalytics.com/lol/ambessa/build/"
+    },
+    "Amumu": {
+      "failed": [
+        "https://lolalytics.com/lol/Amumu/build/"
+      ],
+      "success": "https://lolalytics.com/lol/amumu/build/"
+    },
+    "Anivia": {
+      "failed": [
+        "https://lolalytics.com/lol/Anivia/build/"
+      ],
+      "success": "https://lolalytics.com/lol/anivia/build/"
+    },
+    "Annie": {
+      "failed": [
+        "https://lolalytics.com/lol/Annie/build/"
+      ],
+      "success": "https://lolalytics.com/lol/annie/build/"
+    },
+    "Aphelios": {
+      "failed": [
+        "https://lolalytics.com/lol/Aphelios/build/"
+      ],
+      "success": "https://lolalytics.com/lol/aphelios/build/"
+    },
+    "Ashe": {
+      "failed": [
+        "https://lolalytics.com/lol/Ashe/build/"
+      ],
+      "success": "https://lolalytics.com/lol/ashe/build/"
+    },
+    "Aurelion Sol": {
+      "failed": [
+        "https://lolalytics.com/lol/Aurelion_Sol/build/",
+        "https://lolalytics.com/lol/aurelion_sol/build/"
+      ],
+      "success": "https://lolalytics.com/lol/aurelionsol/build/"
+    },
+    "Aurora": {
+      "failed": [
+        "https://lolalytics.com/lol/Aurora/build/"
+      ],
+      "success": "https://lolalytics.com/lol/aurora/build/"
+    },
+    "Azir": {
+      "failed": [
+        "https://lolalytics.com/lol/Azir/build/"
+      ],
+      "success": "https://lolalytics.com/lol/azir/build/"
+    },
+    "Bard": {
+      "failed": [
+        "https://lolalytics.com/lol/Bard/build/"
+      ],
+      "success": "https://lolalytics.com/lol/bard/build/"
+    },
+    "Bel'Veth": {
+      "failed": [
+        "https://lolalytics.com/lol/Bel'Veth/build/",
+        "https://lolalytics.com/lol/bel'veth/build/"
+      ],
+      "success": "https://lolalytics.com/lol/belveth/build/"
+    },
+    "Blitzcrank": {
+      "failed": [
+        "https://lolalytics.com/lol/Blitzcrank/build/"
+      ],
+      "success": "https://lolalytics.com/lol/blitzcrank/build/"
+    },
+    "Brand": {
+      "failed": [
+        "https://lolalytics.com/lol/Brand/build/"
+      ],
+      "success": "https://lolalytics.com/lol/brand/build/"
+    },
+    "Braum": {
+      "failed": [
+        "https://lolalytics.com/lol/Braum/build/"
+      ],
+      "success": "https://lolalytics.com/lol/braum/build/"
+    },
+    "Briar": {
+      "failed": [
+        "https://lolalytics.com/lol/Briar/build/"
+      ],
+      "success": "https://lolalytics.com/lol/briar/build/"
+    },
+    "Caitlyn": {
+      "failed": [
+        "https://lolalytics.com/lol/Caitlyn/build/"
+      ],
+      "success": "https://lolalytics.com/lol/caitlyn/build/"
+    },
+    "Camille": {
+      "failed": [
+        "https://lolalytics.com/lol/Camille/build/"
+      ],
+      "success": "https://lolalytics.com/lol/camille/build/"
+    },
+    "Cassiopeia": {
+      "failed": [
+        "https://lolalytics.com/lol/Cassiopeia/build/"
+      ],
+      "success": "https://lolalytics.com/lol/cassiopeia/build/"
+    },
+    "Cho'Gath": {
+      "failed": [
+        "https://lolalytics.com/lol/Cho'Gath/build/",
+        "https://lolalytics.com/lol/cho'gath/build/"
+      ],
+      "success": "https://lolalytics.com/lol/chogath/build/"
+    },
+    "Corki": {
+      "failed": [
+        "https://lolalytics.com/lol/Corki/build/"
+      ],
+      "success": "https://lolalytics.com/lol/corki/build/"
+    },
+    "Darius": {
+      "failed": [
+        "https://lolalytics.com/lol/Darius/build/"
+      ],
+      "success": "https://lolalytics.com/lol/darius/build/"
+    },
+    "Diana": {
+      "failed": [
+        "https://lolalytics.com/lol/Diana/build/"
+      ],
+      "success": "https://lolalytics.com/lol/diana/build/"
+    },
+    "Draven": {
+      "failed": [
+        "https://lolalytics.com/lol/Draven/build/"
+      ],
+      "success": "https://lolalytics.com/lol/draven/build/"
+    },
+    "Dr. Mundo": {
+      "failed": [
+        "https://lolalytics.com/lol/Dr._Mundo/build/",
+        "https://lolalytics.com/lol/dr._mundo/build/",
+        "https://lolalytics.com/lol/dr_mundo/build/"
+      ],
+      "success": "https://lolalytics.com/lol/drmundo/build/"
+    },
+    "Ekko": {
+      "failed": [
+        "https://lolalytics.com/lol/Ekko/build/"
+      ],
+      "success": "https://lolalytics.com/lol/ekko/build/"
+    },
+    "Elise": {
+      "failed": [
+        "https://lolalytics.com/lol/Elise/build/"
+      ],
+      "success": "https://lolalytics.com/lol/elise/build/"
+    },
+    "Evelynn": {
+      "failed": [
+        "https://lolalytics.com/lol/Evelynn/build/"
+      ],
+      "success": "https://lolalytics.com/lol/evelynn/build/"
+    },
+    "Ezreal": {
+      "failed": [
+        "https://lolalytics.com/lol/Ezreal/build/"
+      ],
+      "success": "https://lolalytics.com/lol/ezreal/build/"
+    },
+    "Fiddlesticks": {
+      "failed": [
+        "https://lolalytics.com/lol/Fiddlesticks/build/"
+      ],
+      "success": "https://lolalytics.com/lol/fiddlesticks/build/"
+    },
+    "Fiora": {
+      "failed": [
+        "https://lolalytics.com/lol/Fiora/build/"
+      ],
+      "success": "https://lolalytics.com/lol/fiora/build/"
+    },
+    "Fizz": {
+      "failed": [
+        "https://lolalytics.com/lol/Fizz/build/"
+      ],
+      "success": "https://lolalytics.com/lol/fizz/build/"
+    },
+    "Galio": {
+      "failed": [
+        "https://lolalytics.com/lol/Galio/build/"
+      ],
+      "success": "https://lolalytics.com/lol/galio/build/"
+    },
+    "Gangplank": {
+      "failed": [
+        "https://lolalytics.com/lol/Gangplank/build/"
+      ],
+      "success": "https://lolalytics.com/lol/gangplank/build/"
+    },
+    "Garen": {
+      "failed": [
+        "https://lolalytics.com/lol/Garen/build/"
+      ],
+      "success": "https://lolalytics.com/lol/garen/build/"
+    },
+    "Gnar": {
+      "failed": [
+        "https://lolalytics.com/lol/Gnar/build/"
+      ],
+      "success": "https://lolalytics.com/lol/gnar/build/"
+    },
+    "Gragas": {
+      "failed": [
+        "https://lolalytics.com/lol/Gragas/build/"
+      ],
+      "success": "https://lolalytics.com/lol/gragas/build/"
+    },
+    "Graves": {
+      "failed": [
+        "https://lolalytics.com/lol/Graves/build/"
+      ],
+      "success": "https://lolalytics.com/lol/graves/build/"
+    },
+    "Gwen": {
+      "failed": [
+        "https://lolalytics.com/lol/Gwen/build/"
+      ],
+      "success": "https://lolalytics.com/lol/gwen/build/"
+    },
+    "Hecarim": {
+      "failed": [
+        "https://lolalytics.com/lol/Hecarim/build/"
+      ],
+      "success": "https://lolalytics.com/lol/hecarim/build/"
+    },
+    "Heimerdinger": {
+      "failed": [
+        "https://lolalytics.com/lol/Heimerdinger/build/"
+      ],
+      "success": "https://lolalytics.com/lol/heimerdinger/build/"
+    },
+    "Hwei": {
+      "failed": [
+        "https://lolalytics.com/lol/Hwei/build/"
+      ],
+      "success": "https://lolalytics.com/lol/hwei/build/"
+    },
+    "Illaoi": {
+      "failed": [
+        "https://lolalytics.com/lol/Illaoi/build/"
+      ],
+      "success": "https://lolalytics.com/lol/illaoi/build/"
+    },
+    "Irelia": {
+      "failed": [
+        "https://lolalytics.com/lol/Irelia/build/"
+      ],
+      "success": "https://lolalytics.com/lol/irelia/build/"
+    },
+    "Ivern": {
+      "failed": [
+        "https://lolalytics.com/lol/Ivern/build/"
+      ],
+      "success": "https://lolalytics.com/lol/ivern/build/"
+    },
+    "Janna": {
+      "failed": [
+        "https://lolalytics.com/lol/Janna/build/"
+      ],
+      "success": "https://lolalytics.com/lol/janna/build/"
+    },
+    "Jarvan IV": {
+      "failed": [
+        "https://lolalytics.com/lol/Jarvan_IV/build/",
+        "https://lolalytics.com/lol/jarvan_iv/build/"
+      ],
+      "success": "https://lolalytics.com/lol/jarvaniv/build/"
+    },
+    "Jax": {
+      "failed": [
+        "https://lolalytics.com/lol/Jax/build/"
+      ],
+      "success": "https://lolalytics.com/lol/jax/build/"
+    },
+    "Jayce": {
+      "failed": [
+        "https://lolalytics.com/lol/Jayce/build/"
+      ],
+      "success": "https://lolalytics.com/lol/jayce/build/"
+    },
+    "Jhin": {
+      "failed": [
+        "https://lolalytics.com/lol/Jhin/build/"
+      ],
+      "success": "https://lolalytics.com/lol/jhin/build/"
+    },
+    "Jinx": {
+      "failed": [
+        "https://lolalytics.com/lol/Jinx/build/"
+      ],
+      "success": "https://lolalytics.com/lol/jinx/build/"
+    },
+    "Kai'Sa": {
+      "failed": [
+        "https://lolalytics.com/lol/Kai'Sa/build/",
+        "https://lolalytics.com/lol/kai'sa/build/"
+      ],
+      "success": "https://lolalytics.com/lol/kaisa/build/"
+    },
+    "Kalista": {
+      "failed": [
+        "https://lolalytics.com/lol/Kalista/build/"
+      ],
+      "success": "https://lolalytics.com/lol/kalista/build/"
+    },
+    "Karma": {
+      "failed": [
+        "https://lolalytics.com/lol/Karma/build/"
+      ],
+      "success": "https://lolalytics.com/lol/karma/build/"
+    },
+    "Karthus": {
+      "failed": [
+        "https://lolalytics.com/lol/Karthus/build/"
+      ],
+      "success": "https://lolalytics.com/lol/karthus/build/"
+    },
+    "Kassadin": {
+      "failed": [
+        "https://lolalytics.com/lol/Kassadin/build/"
+      ],
+      "success": "https://lolalytics.com/lol/kassadin/build/"
+    },
+    "Katarina": {
+      "failed": [
+        "https://lolalytics.com/lol/Katarina/build/"
+      ],
+      "success": "https://lolalytics.com/lol/katarina/build/"
+    },
+    "Kayle": {
+      "failed": [
+        "https://lolalytics.com/lol/Kayle/build/"
+      ],
+      "success": "https://lolalytics.com/lol/kayle/build/"
+    },
+    "Kayn": {
+      "failed": [
+        "https://lolalytics.com/lol/Kayn/build/"
+      ],
+      "success": "https://lolalytics.com/lol/kayn/build/"
+    },
+    "Kennen": {
+      "failed": [
+        "https://lolalytics.com/lol/Kennen/build/"
+      ],
+      "success": "https://lolalytics.com/lol/kennen/build/"
+    },
+    "Kha'Zix": {
+      "failed": [
+        "https://lolalytics.com/lol/Kha'Zix/build/",
+        "https://lolalytics.com/lol/kha'zix/build/"
+      ],
+      "success": "https://lolalytics.com/lol/khazix/build/"
+    },
+    "Kindred": {
+      "failed": [
+        "https://lolalytics.com/lol/Kindred/build/"
+      ],
+      "success": "https://lolalytics.com/lol/kindred/build/"
+    },
+    "Kled": {
+      "failed": [
+        "https://lolalytics.com/lol/Kled/build/"
+      ],
+      "success": "https://lolalytics.com/lol/kled/build/"
+    },
+    "Kog'Maw": {
+      "failed": [
+        "https://lolalytics.com/lol/Kog'Maw/build/",
+        "https://lolalytics.com/lol/kog'maw/build/"
+      ],
+      "success": "https://lolalytics.com/lol/kogmaw/build/"
+    },
+    "K'Sante": {
+      "failed": [
+        "https://lolalytics.com/lol/K'Sante/build/",
+        "https://lolalytics.com/lol/k'sante/build/"
+      ],
+      "success": "https://lolalytics.com/lol/ksante/build/"
+    },
+    "LeBlanc": {
+      "failed": [
+        "https://lolalytics.com/lol/LeBlanc/build/"
+      ],
+      "success": "https://lolalytics.com/lol/leblanc/build/"
+    },
+    "Lee Sin": {
+      "failed": [
+        "https://lolalytics.com/lol/Lee_Sin/build/",
+        "https://lolalytics.com/lol/lee_sin/build/"
+      ],
+      "success": "https://lolalytics.com/lol/leesin/build/"
+    },
+    "Leona": {
+      "failed": [
+        "https://lolalytics.com/lol/Leona/build/"
+      ],
+      "success": "https://lolalytics.com/lol/leona/build/"
+    },
+    "Lillia": {
+      "failed": [
+        "https://lolalytics.com/lol/Lillia/build/"
+      ],
+      "success": "https://lolalytics.com/lol/lillia/build/"
+    },
+    "Lissandra": {
+      "failed": [
+        "https://lolalytics.com/lol/Lissandra/build/"
+      ],
+      "success": "https://lolalytics.com/lol/lissandra/build/"
+    },
+    "Lucian": {
+      "failed": [
+        "https://lolalytics.com/lol/Lucian/build/"
+      ],
+      "success": "https://lolalytics.com/lol/lucian/build/"
+    },
+    "Lulu": {
+      "failed": [
+        "https://lolalytics.com/lol/Lulu/build/"
+      ],
+      "success": "https://lolalytics.com/lol/lulu/build/"
+    },
+    "Lux": {
+      "failed": [
+        "https://lolalytics.com/lol/Lux/build/"
+      ],
+      "success": "https://lolalytics.com/lol/lux/build/"
+    },
+    "Malphite": {
+      "failed": [
+        "https://lolalytics.com/lol/Malphite/build/"
+      ],
+      "success": "https://lolalytics.com/lol/malphite/build/"
+    },
+    "Malzahar": {
+      "failed": [
+        "https://lolalytics.com/lol/Malzahar/build/"
+      ],
+      "success": "https://lolalytics.com/lol/malzahar/build/"
+    },
+    "Maokai": {
+      "failed": [
+        "https://lolalytics.com/lol/Maokai/build/"
+      ],
+      "success": "https://lolalytics.com/lol/maokai/build/"
+    },
+    "Master Yi": {
+      "failed": [
+        "https://lolalytics.com/lol/Master_Yi/build/",
+        "https://lolalytics.com/lol/master_yi/build/"
+      ],
+      "success": "https://lolalytics.com/lol/masteryi/build/"
+    },
+    "Mel": {
+      "failed": [
+        "https://lolalytics.com/lol/Mel/build/"
+      ],
+      "success": "https://lolalytics.com/lol/mel/build/"
+    },
+    "Milio": {
+      "failed": [
+        "https://lolalytics.com/lol/Milio/build/"
+      ],
+      "success": "https://lolalytics.com/lol/milio/build/"
+    },
+    "Miss Fortune": {
+      "failed": [
+        "https://lolalytics.com/lol/Miss_Fortune/build/",
+        "https://lolalytics.com/lol/miss_fortune/build/"
+      ],
+      "success": "https://lolalytics.com/lol/missfortune/build/"
+    },
+    "Wukong": {
+      "failed": [
+        "https://lolalytics.com/lol/Wukong/build/"
+      ],
+      "success": "https://lolalytics.com/lol/wukong/build/"
+    },
+    "Mordekaiser": {
+      "failed": [
+        "https://lolalytics.com/lol/Mordekaiser/build/"
+      ],
+      "success": "https://lolalytics.com/lol/mordekaiser/build/"
+    },
+    "Morgana": {
+      "failed": [
+        "https://lolalytics.com/lol/Morgana/build/"
+      ],
+      "success": "https://lolalytics.com/lol/morgana/build/"
+    },
+    "Naafiri": {
+      "failed": [
+        "https://lolalytics.com/lol/Naafiri/build/"
+      ],
+      "success": "https://lolalytics.com/lol/naafiri/build/"
+    },
+    "Nami": {
+      "failed": [
+        "https://lolalytics.com/lol/Nami/build/"
+      ],
+      "success": "https://lolalytics.com/lol/nami/build/"
+    },
+    "Nasus": {
+      "failed": [
+        "https://lolalytics.com/lol/Nasus/build/"
+      ],
+      "success": "https://lolalytics.com/lol/nasus/build/"
+    },
+    "Nautilus": {
+      "failed": [
+        "https://lolalytics.com/lol/Nautilus/build/"
+      ],
+      "success": "https://lolalytics.com/lol/nautilus/build/"
+    },
+    "Neeko": {
+      "failed": [
+        "https://lolalytics.com/lol/Neeko/build/"
+      ],
+      "success": "https://lolalytics.com/lol/neeko/build/"
+    },
+    "Nidalee": {
+      "failed": [
+        "https://lolalytics.com/lol/Nidalee/build/"
+      ],
+      "success": "https://lolalytics.com/lol/nidalee/build/"
+    },
+    "Nilah": {
+      "failed": [
+        "https://lolalytics.com/lol/Nilah/build/"
+      ],
+      "success": "https://lolalytics.com/lol/nilah/build/"
+    },
+    "Nocturne": {
+      "failed": [
+        "https://lolalytics.com/lol/Nocturne/build/"
+      ],
+      "success": "https://lolalytics.com/lol/nocturne/build/"
+    },
+    "Nunu & Willump": {
+      "failed": [
+        "https://lolalytics.com/lol/Nunu_&_Willump/build/",
+        "https://lolalytics.com/lol/nunu_&_willump/build/",
+        "https://lolalytics.com/lol/nunu__willump/build/",
+        "https://lolalytics.com/lol/nunu_willump/build/",
+        "https://lolalytics.com/lol/nunuwillump/build/"
+      ],
+      "success": "https://lolalytics.com/lol/nunu/build/"
+    },
+    "Olaf": {
+      "failed": [
+        "https://lolalytics.com/lol/Olaf/build/"
+      ],
+      "success": "https://lolalytics.com/lol/olaf/build/"
+    },
+    "Orianna": {
+      "failed": [
+        "https://lolalytics.com/lol/Orianna/build/"
+      ],
+      "success": "https://lolalytics.com/lol/orianna/build/"
+    },
+    "Ornn": {
+      "failed": [
+        "https://lolalytics.com/lol/Ornn/build/"
+      ],
+      "success": "https://lolalytics.com/lol/ornn/build/"
+    },
+    "Pantheon": {
+      "failed": [
+        "https://lolalytics.com/lol/Pantheon/build/"
+      ],
+      "success": "https://lolalytics.com/lol/pantheon/build/"
+    },
+    "Poppy": {
+      "failed": [
+        "https://lolalytics.com/lol/Poppy/build/"
+      ],
+      "success": "https://lolalytics.com/lol/poppy/build/"
+    },
+    "Pyke": {
+      "failed": [
+        "https://lolalytics.com/lol/Pyke/build/"
+      ],
+      "success": "https://lolalytics.com/lol/pyke/build/"
+    },
+    "Qiyana": {
+      "failed": [
+        "https://lolalytics.com/lol/Qiyana/build/"
+      ],
+      "success": "https://lolalytics.com/lol/qiyana/build/"
+    },
+    "Quinn": {
+      "failed": [
+        "https://lolalytics.com/lol/Quinn/build/"
+      ],
+      "success": "https://lolalytics.com/lol/quinn/build/"
+    },
+    "Rakan": {
+      "failed": [
+        "https://lolalytics.com/lol/Rakan/build/"
+      ],
+      "success": "https://lolalytics.com/lol/rakan/build/"
+    },
+    "Rammus": {
+      "failed": [
+        "https://lolalytics.com/lol/Rammus/build/"
+      ],
+      "success": "https://lolalytics.com/lol/rammus/build/"
+    },
+    "Rek'Sai": {
+      "failed": [
+        "https://lolalytics.com/lol/Rek'Sai/build/",
+        "https://lolalytics.com/lol/rek'sai/build/"
+      ],
+      "success": "https://lolalytics.com/lol/reksai/build/"
+    },
+    "Rell": {
+      "failed": [
+        "https://lolalytics.com/lol/Rell/build/"
+      ],
+      "success": "https://lolalytics.com/lol/rell/build/"
+    },
+    "Renata Glasc": {
+      "failed": [
+        "https://lolalytics.com/lol/Renata_Glasc/build/",
+        "https://lolalytics.com/lol/renata_glasc/build/",
+        "https://lolalytics.com/lol/renataglasc/build/"
+      ],
+      "success": "https://lolalytics.com/lol/renata/build/"
+    },
+    "Renekton": {
+      "failed": [
+        "https://lolalytics.com/lol/Renekton/build/"
+      ],
+      "success": "https://lolalytics.com/lol/renekton/build/"
+    },
+    "Rengar": {
+      "failed": [
+        "https://lolalytics.com/lol/Rengar/build/"
+      ],
+      "success": "https://lolalytics.com/lol/rengar/build/"
+    },
+    "Riven": {
+      "failed": [
+        "https://lolalytics.com/lol/Riven/build/"
+      ],
+      "success": "https://lolalytics.com/lol/riven/build/"
+    },
+    "Rumble": {
+      "failed": [
+        "https://lolalytics.com/lol/Rumble/build/"
+      ],
+      "success": "https://lolalytics.com/lol/rumble/build/"
+    },
+    "Ryze": {
+      "failed": [
+        "https://lolalytics.com/lol/Ryze/build/"
+      ],
+      "success": "https://lolalytics.com/lol/ryze/build/"
+    },
+    "Samira": {
+      "failed": [
+        "https://lolalytics.com/lol/Samira/build/"
+      ],
+      "success": "https://lolalytics.com/lol/samira/build/"
+    },
+    "Sejuani": {
+      "failed": [
+        "https://lolalytics.com/lol/Sejuani/build/"
+      ],
+      "success": "https://lolalytics.com/lol/sejuani/build/"
+    },
+    "Senna": {
+      "failed": [
+        "https://lolalytics.com/lol/Senna/build/"
+      ],
+      "success": "https://lolalytics.com/lol/senna/build/"
+    },
+    "Seraphine": {
+      "failed": [
+        "https://lolalytics.com/lol/Seraphine/build/"
+      ],
+      "success": "https://lolalytics.com/lol/seraphine/build/"
+    },
+    "Sett": {
+      "failed": [
+        "https://lolalytics.com/lol/Sett/build/"
+      ],
+      "success": "https://lolalytics.com/lol/sett/build/"
+    },
+    "Shaco": {
+      "failed": [
+        "https://lolalytics.com/lol/Shaco/build/"
+      ],
+      "success": "https://lolalytics.com/lol/shaco/build/"
+    }
+  }
+}
