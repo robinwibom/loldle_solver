@@ -42,7 +42,6 @@ class BasicInfoLoader(BaseLoader):
             champions.append({
                 "name": champ.get("name"),
                 "resource": champ.get("partype"),
-                "tags": champ.get("tags", []),
                 "gender": self.guess_gender(champ.get("blurb", ""))
             })
         return champions

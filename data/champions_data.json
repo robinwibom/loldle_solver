@@ -4,9 +4,6 @@
     {
       "name": "Aatrox",
       "resource": "Blood Well",
-      "tags": [
-        "Fighter"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -15,10 +12,6 @@
     {
       "name": "Ahri",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Middle"
@@ -27,9 +20,6 @@
     {
       "name": "Akali",
       "resource": "Energy",
-      "tags": [
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Top",
@@ -39,10 +29,6 @@
     {
       "name": "Akshan",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Middle"
@@ -51,10 +37,6 @@
     {
       "name": "Alistar",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Support"
-      ],
       "gender": "Male",
       "positions": [
         "Support"
@@ -63,10 +45,6 @@
     {
       "name": "Ambessa",
       "resource": "Energy",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Top"
@@ -75,10 +53,6 @@
     {
       "name": "Amumu",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Support"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -87,9 +61,6 @@
     {
       "name": "Anivia",
       "resource": "Mana",
-      "tags": [
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Middle"
@@ -98,10 +69,6 @@
     {
       "name": "Annie",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Female",
       "positions": [
         "Middle"
@@ -110,9 +77,6 @@
     {
       "name": "Aphelios",
       "resource": "Mana",
-      "tags": [
-        "Marksman"
-      ],
       "gender": "Male",
       "positions": [
         "Bottom"
@@ -121,10 +85,6 @@
     {
       "name": "Ashe",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Support"
-      ],
       "gender": "Female",
       "positions": [
         "Bottom"
@@ -133,9 +93,6 @@
     {
       "name": "Aurelion Sol",
       "resource": "Mana",
-      "tags": [
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Middle"
@@ -144,10 +101,6 @@
     {
       "name": "Aurora",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Middle"
@@ -156,10 +109,6 @@
     {
       "name": "Azir",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Marksman"
-      ],
       "gender": "Male",
       "positions": [
         "Middle"
@@ -168,10 +117,6 @@
     {
       "name": "Bard",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Support"
@@ -180,9 +125,6 @@
     {
       "name": "Bel'Veth",
       "resource": "",
-      "tags": [
-        "Fighter"
-      ],
       "gender": "Female",
       "positions": [
         "Jungle"
@@ -191,10 +133,6 @@
     {
       "name": "Blitzcrank",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Support"
-      ],
       "gender": "Male",
       "positions": [
         "Support"
@@ -203,10 +141,6 @@
     {
       "name": "Brand",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Male",
       "positions": [
         "Support"
@@ -215,10 +149,6 @@
     {
       "name": "Braum",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Support"
-      ],
       "gender": "Male",
       "positions": [
         "Support"
@@ -227,10 +157,6 @@
     {
       "name": "Briar",
       "resource": "Fury",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Jungle"
@@ -239,9 +165,6 @@
     {
       "name": "Caitlyn",
       "resource": "Mana",
-      "tags": [
-        "Marksman"
-      ],
       "gender": "Female",
       "positions": [
         "Bottom"
@@ -250,10 +173,6 @@
     {
       "name": "Camille",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Top"
@@ -262,9 +181,6 @@
     {
       "name": "Cassiopeia",
       "resource": "Mana",
-      "tags": [
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Top",
@@ -274,10 +190,6 @@
     {
       "name": "Cho'Gath",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Mage"
-      ],
       "gender": "Other",
       "positions": [
         "Top"
@@ -286,10 +198,6 @@
     {
       "name": "Corki",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Middle",
@@ -299,10 +207,6 @@
     {
       "name": "Darius",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -311,10 +215,6 @@
     {
       "name": "Diana",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Jungle",
@@ -324,9 +224,6 @@
     {
       "name": "Draven",
       "resource": "Mana",
-      "tags": [
-        "Marksman"
-      ],
       "gender": "Male",
       "positions": [
         "Bottom"
@@ -335,10 +232,6 @@
     {
       "name": "Dr. Mundo",
       "resource": "None",
-      "tags": [
-        "Tank",
-        "Fighter"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -347,10 +240,6 @@
     {
       "name": "Ekko",
       "resource": "Mana",
-      "tags": [
-        "Assassin",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle",
@@ -360,10 +249,6 @@
     {
       "name": "Elise",
       "resource": "Mana",
-      "tags": [
-        "Assassin",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Jungle",
@@ -373,10 +258,6 @@
     {
       "name": "Evelynn",
       "resource": "Mana",
-      "tags": [
-        "Assassin",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Jungle"
@@ -385,10 +266,6 @@
     {
       "name": "Ezreal",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Bottom"
@@ -397,10 +274,6 @@
     {
       "name": "Fiddlesticks",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Other",
       "positions": [
         "Jungle",
@@ -410,10 +283,6 @@
     {
       "name": "Fiora",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Top"
@@ -422,10 +291,6 @@
     {
       "name": "Fizz",
       "resource": "Mana",
-      "tags": [
-        "Assassin",
-        "Fighter"
-      ],
       "gender": "Male",
       "positions": [
         "Middle"
@@ -434,10 +299,6 @@
     {
       "name": "Galio",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Middle"
@@ -446,9 +307,6 @@
     {
       "name": "Gangplank",
       "resource": "Mana",
-      "tags": [
-        "Fighter"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -457,10 +315,6 @@
     {
       "name": "Garen",
       "resource": "None",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -469,10 +323,6 @@
     {
       "name": "Gnar",
       "resource": "Rage",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -481,10 +331,6 @@
     {
       "name": "Gragas",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -493,9 +339,6 @@
     {
       "name": "Graves",
       "resource": "Mana",
-      "tags": [
-        "Marksman"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -504,9 +347,6 @@
     {
       "name": "Gwen",
       "resource": "Mana",
-      "tags": [
-        "Fighter"
-      ],
       "gender": "Female",
       "positions": [
         "Top",
@@ -516,10 +356,6 @@
     {
       "name": "Hecarim",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -528,10 +364,6 @@
     {
       "name": "Heimerdinger",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Male",
       "positions": [
         "Top",
@@ -541,10 +373,6 @@
     {
       "name": "Hwei",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Male",
       "positions": [
         "Middle"
@@ -553,10 +381,6 @@
     {
       "name": "Illaoi",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Female",
       "positions": [
         "Top"
@@ -565,10 +389,6 @@
     {
       "name": "Irelia",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Top",
@@ -578,10 +398,6 @@
     {
       "name": "Ivern",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -590,10 +406,6 @@
     {
       "name": "Janna",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Support"
@@ -602,10 +414,6 @@
     {
       "name": "Jarvan IV",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -614,9 +422,6 @@
     {
       "name": "Jax",
       "resource": "Mana",
-      "tags": [
-        "Fighter"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -625,10 +430,6 @@
     {
       "name": "Jayce",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Fighter"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -637,10 +438,6 @@
     {
       "name": "Jhin",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Bottom"
@@ -649,9 +446,6 @@
     {
       "name": "Jinx",
       "resource": "Mana",
-      "tags": [
-        "Marksman"
-      ],
       "gender": "Female",
       "positions": [
         "Bottom"
@@ -660,10 +454,6 @@
     {
       "name": "Kai'Sa",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Bottom"
@@ -672,9 +462,6 @@
     {
       "name": "Kalista",
       "resource": "Mana",
-      "tags": [
-        "Marksman"
-      ],
       "gender": "Female",
       "positions": [
         "Bottom"
@@ -683,10 +470,6 @@
     {
       "name": "Karma",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Female",
       "positions": [
         "Support"
@@ -695,9 +478,6 @@
     {
       "name": "Karthus",
       "resource": "Mana",
-      "tags": [
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -706,10 +486,6 @@
     {
       "name": "Kassadin",
       "resource": "Mana",
-      "tags": [
-        "Assassin",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Middle"
@@ -718,10 +494,6 @@
     {
       "name": "Katarina",
       "resource": "None",
-      "tags": [
-        "Assassin",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Middle"
@@ -730,10 +502,6 @@
     {
       "name": "Kayle",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Marksman"
-      ],
       "gender": "Female",
       "positions": [
         "Top",
@@ -743,10 +511,6 @@
     {
       "name": "Kayn",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -755,20 +519,15 @@
     {
       "name": "Kennen",
       "resource": "Energy",
-      "tags": [
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
-        "Top"
+        "Top",
+        "Middle"
       ]
     },
     {
       "name": "Kha'Zix",
       "resource": "Mana",
-      "tags": [
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -777,9 +536,6 @@
     {
       "name": "Kindred",
       "resource": "Mana",
-      "tags": [
-        "Marksman"
-      ],
       "gender": "Other",
       "positions": [
         "Jungle"
@@ -788,9 +544,6 @@
     {
       "name": "Kled",
       "resource": "Courage",
-      "tags": [
-        "Fighter"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -799,10 +552,6 @@
     {
       "name": "Kog'Maw",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Bottom"
@@ -811,10 +560,6 @@
     {
       "name": "K'Sante",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Fighter"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -823,10 +568,6 @@
     {
       "name": "LeBlanc",
       "resource": "Mana",
-      "tags": [
-        "Assassin",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Middle"
@@ -835,10 +576,6 @@
     {
       "name": "Lee Sin",
       "resource": "Energy",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -847,10 +584,6 @@
     {
       "name": "Leona",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Support"
-      ],
       "gender": "Female",
       "positions": [
         "Support"
@@ -859,10 +592,6 @@
     {
       "name": "Lillia",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Jungle"
@@ -871,9 +600,6 @@
     {
       "name": "Lissandra",
       "resource": "Mana",
-      "tags": [
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Middle"
@@ -882,10 +608,6 @@
     {
       "name": "Lucian",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Bottom"
@@ -894,10 +616,6 @@
     {
       "name": "Lulu",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Support"
@@ -906,10 +624,6 @@
     {
       "name": "Lux",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Female",
       "positions": [
         "Middle",
@@ -919,10 +633,6 @@
     {
       "name": "Malphite",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -931,9 +641,6 @@
     {
       "name": "Malzahar",
       "resource": "Mana",
-      "tags": [
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Middle"
@@ -942,10 +649,6 @@
     {
       "name": "Maokai",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Support"
-      ],
       "gender": "Male",
       "positions": [
         "Support"
@@ -954,10 +657,6 @@
     {
       "name": "Master Yi",
       "resource": "Mana",
-      "tags": [
-        "Assassin",
-        "Fighter"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -966,10 +665,6 @@
     {
       "name": "Mel",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Female",
       "positions": [
         "Middle",
@@ -979,10 +674,6 @@
     {
       "name": "Milio",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Support"
@@ -991,10 +682,6 @@
     {
       "name": "Miss Fortune",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Bottom"
@@ -1003,10 +690,6 @@
     {
       "name": "Wukong",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top",
@@ -1016,10 +699,6 @@
     {
       "name": "Mordekaiser",
       "resource": "Shield",
-      "tags": [
-        "Fighter",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -1028,10 +707,6 @@
     {
       "name": "Morgana",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Female",
       "positions": [
         "Support"
@@ -1040,10 +715,6 @@
     {
       "name": "Naafiri",
       "resource": "Mana",
-      "tags": [
-        "Assassin",
-        "Fighter"
-      ],
       "gender": "Female",
       "positions": [
         "Jungle"
@@ -1052,10 +723,6 @@
     {
       "name": "Nami",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Support"
@@ -1064,10 +731,6 @@
     {
       "name": "Nasus",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -1076,10 +739,6 @@
     {
       "name": "Nautilus",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Support"
-      ],
       "gender": "Male",
       "positions": [
         "Support"
@@ -1088,22 +747,15 @@
     {
       "name": "Neeko",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Female",
       "positions": [
+        "Middle",
         "Support"
       ]
     },
     {
       "name": "Nidalee",
       "resource": "Mana",
-      "tags": [
-        "Assassin",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Jungle"
@@ -1112,10 +764,6 @@
     {
       "name": "Nilah",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Bottom"
@@ -1124,10 +772,6 @@
     {
       "name": "Nocturne",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Other",
       "positions": [
         "Jungle"
@@ -1136,10 +780,6 @@
     {
       "name": "Nunu & Willump",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -1148,10 +788,6 @@
     {
       "name": "Olaf",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -1160,10 +796,6 @@
     {
       "name": "Orianna",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Female",
       "positions": [
         "Middle"
@@ -1172,9 +804,6 @@
     {
       "name": "Ornn",
       "resource": "Mana",
-      "tags": [
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -1183,10 +812,6 @@
     {
       "name": "Pantheon",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle",
@@ -1196,10 +821,6 @@
     {
       "name": "Poppy",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Fighter"
-      ],
       "gender": "Female",
       "positions": [
         "Top",
@@ -1210,10 +831,6 @@
     {
       "name": "Pyke",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Support"
@@ -1222,9 +839,6 @@
     {
       "name": "Qiyana",
       "resource": "Mana",
-      "tags": [
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Jungle",
@@ -1234,10 +848,6 @@
     {
       "name": "Quinn",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Top"
@@ -1246,9 +856,6 @@
     {
       "name": "Rakan",
       "resource": "Mana",
-      "tags": [
-        "Support"
-      ],
       "gender": "Male",
       "positions": [
         "Support"
@@ -1257,9 +864,6 @@
     {
       "name": "Rammus",
       "resource": "Mana",
-      "tags": [
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -1268,10 +872,6 @@
     {
       "name": "Rek'Sai",
       "resource": "Rage",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Female",
       "positions": [
         "Jungle"
@@ -1280,10 +880,6 @@
     {
       "name": "Rell",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Support"
-      ],
       "gender": "Female",
       "positions": [
         "Support"
@@ -1292,10 +888,6 @@
     {
       "name": "Renata Glasc",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Support"
@@ -1304,10 +896,6 @@
     {
       "name": "Renekton",
       "resource": "Fury",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -1316,10 +904,6 @@
     {
       "name": "Rengar",
       "resource": "Ferocity",
-      "tags": [
-        "Assassin",
-        "Fighter"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -1328,10 +912,6 @@
     {
       "name": "Riven",
       "resource": "None",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Top"
@@ -1340,10 +920,6 @@
     {
       "name": "Rumble",
       "resource": "Heat",
-      "tags": [
-        "Fighter",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -1352,9 +928,6 @@
     {
       "name": "Ryze",
       "resource": "Mana",
-      "tags": [
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Top",
@@ -1364,10 +937,6 @@
     {
       "name": "Samira",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Bottom"
@@ -1376,9 +945,6 @@
     {
       "name": "Sejuani",
       "resource": "Mana",
-      "tags": [
-        "Tank"
-      ],
       "gender": "Female",
       "positions": [
         "Jungle"
@@ -1387,10 +953,6 @@
     {
       "name": "Senna",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Marksman"
-      ],
       "gender": "Female",
       "positions": [
         "Bottom",
@@ -1400,10 +962,6 @@
     {
       "name": "Seraphine",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Support"
@@ -1412,10 +970,6 @@
     {
       "name": "Sett",
       "resource": "Grit",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -1424,9 +978,6 @@
     {
       "name": "Shaco",
       "resource": "Mana",
-      "tags": [
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle",
@@ -1436,9 +987,6 @@
     {
       "name": "Shen",
       "resource": "Energy",
-      "tags": [
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -1447,10 +995,6 @@
     {
       "name": "Shyvana",
       "resource": "Fury",
-      "tags": [
-        "Fighter",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Jungle"
@@ -1459,10 +1003,6 @@
     {
       "name": "Singed",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -1471,10 +1011,6 @@
     {
       "name": "Sion",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Fighter"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -1483,9 +1019,6 @@
     {
       "name": "Sivir",
       "resource": "Mana",
-      "tags": [
-        "Marksman"
-      ],
       "gender": "Female",
       "positions": [
         "Bottom"
@@ -1494,10 +1027,6 @@
     {
       "name": "Skarner",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Fighter"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -1506,10 +1035,6 @@
     {
       "name": "Smolder",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Bottom"
@@ -1518,10 +1043,6 @@
     {
       "name": "Sona",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Support"
@@ -1530,10 +1051,6 @@
     {
       "name": "Soraka",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Support"
@@ -1542,10 +1059,6 @@
     {
       "name": "Swain",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Male",
       "positions": [
         "Middle",
@@ -1555,10 +1068,6 @@
     {
       "name": "Sylas",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Middle"
@@ -1567,9 +1076,6 @@
     {
       "name": "Syndra",
       "resource": "Mana",
-      "tags": [
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Middle"
@@ -1578,10 +1084,6 @@
     {
       "name": "Tahm Kench",
       "resource": "Mana",
-      "tags": [
-        "Tank",
-        "Support"
-      ],
       "gender": "Male",
       "positions": [
         "Top",
@@ -1591,10 +1093,6 @@
     {
       "name": "Taliyah",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Female",
       "positions": [
         "Middle"
@@ -1603,9 +1101,6 @@
     {
       "name": "Talon",
       "resource": "Mana",
-      "tags": [
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle",
@@ -1615,10 +1110,6 @@
     {
       "name": "Taric",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Support"
@@ -1627,10 +1118,6 @@
     {
       "name": "Teemo",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -1639,10 +1126,6 @@
     {
       "name": "Thresh",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Support"
@@ -1651,10 +1134,6 @@
     {
       "name": "Tristana",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Bottom"
@@ -1663,10 +1142,6 @@
     {
       "name": "Trundle",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top",
@@ -1676,10 +1151,6 @@
     {
       "name": "Tryndamere",
       "resource": "Fury",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -1688,10 +1159,6 @@
     {
       "name": "Twisted Fate",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Marksman"
-      ],
       "gender": "Male",
       "positions": [
         "Middle"
@@ -1700,10 +1167,6 @@
     {
       "name": "Twitch",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Bottom"
@@ -1712,10 +1175,6 @@
     {
       "name": "Udyr",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top",
@@ -1725,10 +1184,6 @@
     {
       "name": "Urgot",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -1737,10 +1192,6 @@
     {
       "name": "Varus",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Bottom"
@@ -1749,10 +1200,6 @@
     {
       "name": "Vayne",
       "resource": "Mana",
-      "tags": [
-        "Marksman",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Bottom"
@@ -1761,9 +1208,6 @@
     {
       "name": "Veigar",
       "resource": "Mana",
-      "tags": [
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Middle"
@@ -1772,10 +1216,6 @@
     {
       "name": "Vel'Koz",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Male",
       "positions": [
         "Middle",
@@ -1785,9 +1225,6 @@
     {
       "name": "Vex",
       "resource": "Mana",
-      "tags": [
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Middle"
@@ -1796,10 +1233,6 @@
     {
       "name": "Vi",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Female",
       "positions": [
         "Jungle"
@@ -1808,10 +1241,6 @@
     {
       "name": "Viego",
       "resource": "None",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -1820,9 +1249,6 @@
     {
       "name": "Viktor",
       "resource": "Mana",
-      "tags": [
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Middle"
@@ -1831,10 +1257,6 @@
     {
       "name": "Vladimir",
       "resource": "Crimson Rush",
-      "tags": [
-        "Mage",
-        "Fighter"
-      ],
       "gender": "Male",
       "positions": [
         "Top",
@@ -1844,10 +1266,6 @@
     {
       "name": "Volibear",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top",
@@ -1857,10 +1275,6 @@
     {
       "name": "Warwick",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top",
@@ -1870,9 +1284,6 @@
     {
       "name": "Xayah",
       "resource": "Mana",
-      "tags": [
-        "Marksman"
-      ],
       "gender": "Female",
       "positions": [
         "Bottom"
@@ -1881,10 +1292,6 @@
     {
       "name": "Xerath",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Male",
       "positions": [
         "Middle",
@@ -1894,10 +1301,6 @@
     {
       "name": "Xin Zhao",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -1906,10 +1309,6 @@
     {
       "name": "Yasuo",
       "resource": "Flow",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Top",
@@ -1919,10 +1318,6 @@
     {
       "name": "Yone",
       "resource": "Flow",
-      "tags": [
-        "Fighter",
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Top",
@@ -1932,10 +1327,6 @@
     {
       "name": "Yorick",
       "resource": "Mana",
-      "tags": [
-        "Fighter",
-        "Tank"
-      ],
       "gender": "Male",
       "positions": [
         "Top"
@@ -1944,10 +1335,6 @@
     {
       "name": "Yuumi",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Support"
@@ -1956,10 +1343,6 @@
     {
       "name": "Zac",
       "resource": "None",
-      "tags": [
-        "Tank",
-        "Fighter"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle"
@@ -1968,9 +1351,6 @@
     {
       "name": "Zed",
       "resource": "Energy",
-      "tags": [
-        "Assassin"
-      ],
       "gender": "Male",
       "positions": [
         "Jungle",
@@ -1980,9 +1360,6 @@
     {
       "name": "Zeri",
       "resource": "Mana",
-      "tags": [
-        "Marksman"
-      ],
       "gender": "Female",
       "positions": [
         "Bottom"
@@ -1991,9 +1368,6 @@
     {
       "name": "Ziggs",
       "resource": "Mana",
-      "tags": [
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Middle",
@@ -2003,10 +1377,6 @@
     {
       "name": "Zilean",
       "resource": "Mana",
-      "tags": [
-        "Support",
-        "Mage"
-      ],
       "gender": "Male",
       "positions": [
         "Support"
@@ -2015,9 +1385,6 @@
     {
       "name": "Zoe",
       "resource": "Mana",
-      "tags": [
-        "Mage"
-      ],
       "gender": "Female",
       "positions": [
         "Middle"
@@ -2026,10 +1393,6 @@
     {
       "name": "Zyra",
       "resource": "Mana",
-      "tags": [
-        "Mage",
-        "Support"
-      ],
       "gender": "Female",
       "positions": [
         "Jungle",
