@@ -38,6 +38,14 @@ class FandomChampionPage(BaseScraper):
     @property
     def region(self) -> Optional[List[str]]:
         return self.extract_infobox_list("region", self._soup)
+    
+    @property
+    def origin(self) -> Optional[List[str]]:
+        return self.extract_infobox_list("originplace", self._soup)
+    
+    @property
+    def residence(self) -> Optional[List[str]]:
+        return self.extract_infobox_list("residence", self._soup)
 
     @property
     def species(self) -> Optional[List[str]]:

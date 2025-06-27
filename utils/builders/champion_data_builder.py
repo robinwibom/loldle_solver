@@ -41,6 +41,8 @@ class ChampionDataBuilder:
                 champ['gender'] = fpage.gender
             champ['region'] = fpage.region
             champ['species'] = fpage.species
+            champ['origin'] = fpage.origin
+            champ['residence'] = fpage.residence
             champ['range_type'] = fpage.range_type
             champ['release_date'] = fpage.release_date
 

@@ -9,6 +9,14 @@
     "species": [
       "Darkin"
     ],
+    "origin": [
+      "Shurima",
+      "(Ancient Times)"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -29,6 +37,12 @@
     "species": [
       "Vesani"
     ],
+    "origin": [
+      "Ionia"
+    ],
+    "residence": [
+      "Shadow Isles"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -48,6 +62,13 @@
     ],
     "species": [
       "Human"
+    ],
+    "origin": [
+      "Temple of Thanjuul",
+      "Ionia"
+    ],
+    "residence": [
+      "Ionia"
     ],
     "range_type": [
       "Melee"
@@ -70,6 +91,13 @@
     "species": [
       "Human"
     ],
+    "origin": [
+      "Shurima"
+    ],
+    "residence": [
+      "Vekaura",
+      "Shurima"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -89,6 +117,12 @@
     ],
     "species": [
       "Minotaur"
+    ],
+    "origin": [
+      "The Great Barrier"
+    ],
+    "residence": [
+      "Unknown"
     ],
     "range_type": [
       "Melee"
@@ -111,6 +145,12 @@
     "species": [
       "Human"
     ],
+    "origin": [
+      "Noxus"
+    ],
+    "residence": [
+      "Piltover"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -131,6 +171,14 @@
     "species": [
       "Yordle"
     ],
+    "origin": [
+      "Shurima",
+      "(Ancient Times)"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -150,6 +198,13 @@
     ],
     "species": [
       "Spirit God"
+    ],
+    "origin": [
+      "Freljord",
+      "The Formation"
+    ],
+    "residence": [
+      "Freljord"
     ],
     "range_type": [
       "Ranged"
@@ -173,6 +228,13 @@
       "Magical",
       "Magically Altered"
     ],
+    "origin": [
+      "Ironspike Mountains",
+      "Noxus"
+    ],
+    "residence": [
+      "Noxus"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -195,6 +257,15 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Mount Targon",
+      "Targon"
+    ],
+    "residence": [
+      "Mount Targon",
+      "Targon",
+      "Marus Omegnum"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -215,6 +286,14 @@
     "species": [
       "Human",
       "Iceborn"
+    ],
+    "origin": [
+      "Vathcaer",
+      "Freljord"
+    ],
+    "residence": [
+      "Freljord",
+      "Frostheld"
     ],
     "range_type": [
       "Ranged"
@@ -237,6 +316,13 @@
     "species": [
       "Celestial Dragon"
     ],
+    "origin": [
+      "(Before Runeterra)"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -257,6 +343,11 @@
     "species": [
       "Bryni"
     ],
+    "origin": [
+      "Aamu",
+      "Freljord"
+    ],
+    "residence": null,
     "range_type": [
       "Ranged"
     ],
@@ -276,6 +367,14 @@
     ],
     "species": [
       "God-Warrior"
+    ],
+    "origin": [
+      "Shurima City",
+      "Shurima"
+    ],
+    "residence": [
+      "Shurima City",
+      "Shurima"
     ],
     "range_type": [
       "Ranged"
@@ -297,6 +396,14 @@
     "species": [
       "Celestial"
     ],
+    "origin": [
+      "Celestial Realm",
+      "Beginning of Time"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -316,6 +423,15 @@
     ],
     "species": [
       "Voidborn"
+    ],
+    "origin": [
+      "Void",
+      "Belveth",
+      "Shurima"
+    ],
+    "residence": [
+      "Lavender Sea",
+      "Void"
     ],
     "range_type": [
       "Melee"
@@ -337,6 +453,12 @@
     "species": [
       "Techmaturgical",
       "Golem"
+    ],
+    "origin": [
+      "Zaun"
+    ],
+    "residence": [
+      "Zaun"
     ],
     "range_type": [
       "Melee"
@@ -360,6 +482,14 @@
       "Magical",
       "Magically Altered"
     ],
+    "origin": [
+      "Rygann's Reach",
+      "Freljord"
+    ],
+    "residence": [
+      "Unknown",
+      "No fixed abode"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -381,6 +511,12 @@
       "Human",
       "Iceborn"
     ],
+    "origin": [
+      "Freljord"
+    ],
+    "residence": [
+      "Freljord"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -401,6 +537,10 @@
     "species": [
       "Blood Golem"
     ],
+    "origin": null,
+    "residence": [
+      "Noxus"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -420,6 +560,12 @@
     ],
     "species": [
       "Human"
+    ],
+    "origin": [
+      "Piltover"
+    ],
+    "residence": [
+      "Piltover"
     ],
     "range_type": [
       "Ranged"
@@ -442,6 +588,12 @@
       "Human",
       "Cyborg"
     ],
+    "origin": [
+      "Piltover"
+    ],
+    "residence": [
+      "Piltover"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -462,6 +614,14 @@
     "species": [
       "Human",
       "Magically Altered"
+    ],
+    "origin": [
+      "Noxus Prime",
+      "Noxus"
+    ],
+    "residence": [
+      "Urzeris",
+      "Shurima"
     ],
     "range_type": [
       "Ranged"
@@ -484,6 +644,13 @@
     "species": [
       "Voidborn"
     ],
+    "origin": [
+      "Runeterra"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -504,6 +671,12 @@
     "species": [
       "Spirit",
       "Yordle"
+    ],
+    "origin": [
+      "Bandle City"
+    ],
+    "residence": [
+      "Piltover"
     ],
     "range_type": [
       "Ranged"
@@ -526,6 +699,14 @@
     "species": [
       "Human"
     ],
+    "origin": [
+      "Basilich",
+      "Noxus"
+    ],
+    "residence": [
+      "Noxus Prime",
+      "Noxus"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -546,6 +727,12 @@
     "species": [
       "Aspect Host",
       "Human"
+    ],
+    "origin": [
+      "Unknown"
+    ],
+    "residence": [
+      "Ionia"
     ],
     "range_type": [
       "Melee"
@@ -568,6 +755,14 @@
     "species": [
       "Human"
     ],
+    "origin": [
+      "Basilich",
+      "Noxus"
+    ],
+    "residence": [
+      "Noxus Prime",
+      "Noxus"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -589,6 +784,12 @@
       "Human",
       "Chemically Altered"
     ],
+    "origin": [
+      "Zaun"
+    ],
+    "residence": [
+      "Zaun"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -608,6 +809,12 @@
     ],
     "species": [
       "Human"
+    ],
+    "origin": [
+      "Zaun"
+    ],
+    "residence": [
+      "Zaun"
     ],
     "range_type": [
       "Melee"
@@ -631,6 +838,14 @@
       "Human",
       "Magically Altered"
     ],
+    "origin": [
+      "Noxus Prime",
+      "Noxus"
+    ],
+    "residence": [
+      "Noxus Prime",
+      "Noxus"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -651,6 +866,13 @@
     ],
     "species": [
       "Demon"
+    ],
+    "origin": [
+      "Runeterra"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
     ],
     "range_type": [
       "Melee"
@@ -673,6 +895,12 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Piltover"
+    ],
+    "residence": [
+      "Piltover"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -692,6 +920,13 @@
     ],
     "species": [
       "Demon"
+    ],
+    "origin": [
+      "Spirit Realm"
+    ],
+    "residence": [
+      "Rocky Highlands",
+      "Demacia"
     ],
     "range_type": [
       "Ranged"
@@ -714,6 +949,14 @@
     "species": [
       "Human"
     ],
+    "origin": [
+      "Demacia City",
+      "Demacia"
+    ],
+    "residence": [
+      "Demacia City",
+      "Demacia"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -733,6 +976,13 @@
     ],
     "species": [
       "Yordle"
+    ],
+    "origin": [
+      "Bandle City"
+    ],
+    "residence": [
+      "Guardian's Sea",
+      "Bilgewater"
     ],
     "range_type": [
       "Melee"
@@ -755,6 +1005,14 @@
       "Petricite",
       "Golem"
     ],
+    "origin": [
+      "Demacia City",
+      "Demacia"
+    ],
+    "residence": [
+      "Demacia City",
+      "Demacia"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -776,6 +1034,14 @@
       "Human",
       "Cyborg"
     ],
+    "origin": [
+      "Bilgewater",
+      "Serpent Isles"
+    ],
+    "residence": [
+      "Bilgewater",
+      "Serpent Isles"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -795,6 +1061,14 @@
     ],
     "species": [
       "Human"
+    ],
+    "origin": [
+      "High Silvermere",
+      "Demacia"
+    ],
+    "residence": [
+      "Demacia City",
+      "Demacia"
     ],
     "range_type": [
       "Melee"
@@ -816,6 +1090,12 @@
     "species": [
       "Yordle"
     ],
+    "origin": [
+      "Bandle City",
+      "Ramshara",
+      "Freljord"
+    ],
+    "residence": [],
     "range_type": [
       "Ranged"
     ],
@@ -837,6 +1117,12 @@
       "Human",
       "Iceborn"
     ],
+    "origin": [
+      "Unknown"
+    ],
+    "residence": [
+      "Freljord"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -857,6 +1143,14 @@
     ],
     "species": [
       "Human"
+    ],
+    "origin": [
+      "Bilgewater",
+      "Serpent Isles"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
     ],
     "range_type": [
       "Ranged"
@@ -881,6 +1175,12 @@
       "Magically Altered",
       "[1]"
     ],
+    "origin": [
+      "Camavor"
+    ],
+    "residence": [
+      "Shadow Isles"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -902,6 +1202,12 @@
     "species": [
       "Wraith"
     ],
+    "origin": [
+      "Kingdom of Camavor"
+    ],
+    "residence": [
+      "Shadow Isles"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -921,6 +1227,12 @@
     ],
     "species": [
       "Yordle"
+    ],
+    "origin": [
+      "Bandle City"
+    ],
+    "residence": [
+      "Piltover"
     ],
     "range_type": [
       "Ranged"
@@ -944,6 +1256,13 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Koyehn",
+      "Ionia"
+    ],
+    "residence": [
+      "Ionia"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -965,6 +1284,14 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Buhru",
+      "Serpent Isles"
+    ],
+    "residence": [
+      "Bilgewater",
+      "Serpent Isles"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -985,6 +1312,14 @@
     "species": [
       "Human",
       "Magical"
+    ],
+    "origin": [
+      "Navori",
+      "Ionia"
+    ],
+    "residence": [
+      "Navori",
+      "Ionia"
     ],
     "range_type": [
       "Melee"
@@ -1008,6 +1343,15 @@
       "Human",
       "Magically Altered"
     ],
+    "origin": [
+      "Freljord",
+      "(Ancient Times)",
+      "Ionia"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -1027,6 +1371,12 @@
     ],
     "species": [
       "Spirit God"
+    ],
+    "origin": [
+      "Shurima"
+    ],
+    "residence": [
+      "Zaun"
     ],
     "range_type": [
       "Ranged"
@@ -1048,6 +1398,14 @@
     "species": [
       "Human"
     ],
+    "origin": [
+      "Demacia City",
+      "Demacia"
+    ],
+    "residence": [
+      "Demacia City",
+      "Demacia"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -1068,6 +1426,14 @@
     "species": [
       "Sand-Troll"
     ],
+    "origin": [
+      "Icathia",
+      "Shurima"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -1087,6 +1453,12 @@
     ],
     "species": [
       "Human"
+    ],
+    "origin": [
+      "Piltover"
+    ],
+    "residence": [
+      "Piltover"
     ],
     "range_type": [
       "Melee"
@@ -1109,6 +1481,12 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Ionia"
+    ],
+    "residence": [
+      "Ionia"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -1129,6 +1507,12 @@
     "species": [
       "Human",
       "Chemically Altered"
+    ],
+    "origin": [
+      "Zaun"
+    ],
+    "residence": [
+      "Piltover"
     ],
     "range_type": [
       "Ranged"
@@ -1151,6 +1535,14 @@
       "Human",
       "Void Touched"
     ],
+    "origin": [
+      "Sai",
+      "Shurima"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -1170,6 +1562,12 @@
     ],
     "species": [
       "Wraith"
+    ],
+    "origin": [
+      "Kingdom of Camavor"
+    ],
+    "residence": [
+      "Shadow Isles"
     ],
     "range_type": [
       "Ranged"
@@ -1192,6 +1590,12 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Ionia"
+    ],
+    "residence": [
+      "Ionia"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -1211,6 +1615,13 @@
     ],
     "species": [
       "Wraith"
+    ],
+    "origin": [
+      "Noxus Prime",
+      "Noxus"
+    ],
+    "residence": [
+      "Shadow Isles"
     ],
     "range_type": [
       "Ranged"
@@ -1233,6 +1644,14 @@
       "Human",
       "Void Touched"
     ],
+    "origin": [
+      "Sai",
+      "Shurima"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -1253,6 +1672,14 @@
     "species": [
       "Human",
       "Magical"
+    ],
+    "origin": [
+      "Noxus Prime",
+      "Noxus"
+    ],
+    "residence": [
+      "Noxus Prime",
+      "Noxus"
     ],
     "range_type": [
       "Melee"
@@ -1276,6 +1703,12 @@
       "Human",
       "Magically Altered",
       "Aspect Host"
+    ],
+    "origin": [
+      "Mount Targon"
+    ],
+    "residence": [
+      "Mount Targon"
     ],
     "range_type": [
       "Melee"
@@ -1302,6 +1735,13 @@
       "Human",
       "God-Warrior"
     ],
+    "origin": [
+      "Noxus"
+    ],
+    "residence": [
+      "Temple of Thanjuul",
+      "Ionia"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -1321,6 +1761,13 @@
     ],
     "species": [
       "Yordle"
+    ],
+    "origin": [
+      "Bandle City"
+    ],
+    "residence": [
+      "Temple of Koeshin",
+      "Ionia"
     ],
     "range_type": [
       "Ranged"
@@ -1343,6 +1790,12 @@
     "species": [
       "Voidborn"
     ],
+    "origin": [
+      "The Void"
+    ],
+    "residence": [
+      "Shuriman Jungle"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -1362,6 +1815,12 @@
     ],
     "species": [
       "Spirit Gods"
+    ],
+    "origin": [
+      "Possibly the Spirit Realm"
+    ],
+    "residence": [
+      "Runeterra"
     ],
     "range_type": [
       "Ranged"
@@ -1386,6 +1845,13 @@
       "Drakalops",
       "Skaarl"
     ],
+    "origin": [
+      "Bandle City"
+    ],
+    "residence": [
+      "Dalamor Plain",
+      "Noxus"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -1406,6 +1872,13 @@
     "species": [
       "Voidborn"
     ],
+    "origin": [
+      "The Void",
+      "Icathia"
+    ],
+    "residence": [
+      "Shuriman Continent"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -1425,6 +1898,12 @@
     ],
     "species": [
       "Human"
+    ],
+    "origin": [
+      "Nazumah"
+    ],
+    "residence": [
+      "Nazumah"
     ],
     "range_type": [
       "Melee"
@@ -1448,6 +1927,14 @@
       "Magical",
       "Magically Altered"
     ],
+    "origin": [
+      "Unknown",
+      "Medieval Times"
+    ],
+    "residence": [
+      "Noxus Prime",
+      "Noxus"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -1468,6 +1955,13 @@
     "species": [
       "Human",
       "Magical"
+    ],
+    "origin": [
+      "Ionia"
+    ],
+    "residence": [
+      "Shojin Monastery",
+      "Ionia"
     ],
     "range_type": [
       "Melee"
@@ -1490,6 +1984,14 @@
       "Aspect Host",
       "Human"
     ],
+    "origin": [
+      "Rakkor Caves",
+      "Mount Targon"
+    ],
+    "residence": [
+      "Rakkor Caves",
+      "Mount Targon"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -1509,6 +2011,14 @@
     ],
     "species": [
       "Fae Fawn"
+    ],
+    "origin": [
+      "Garden of Forgetting",
+      "Navori",
+      "Ionia"
+    ],
+    "residence": [
+      "Ionia"
     ],
     "range_type": [
       "Melee"
@@ -1531,6 +2041,13 @@
       "Human",
       "Iceborn"
     ],
+    "origin": [
+      "Freljord"
+    ],
+    "residence": [
+      "Frostguard Citadel",
+      "Freljord"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -1552,6 +2069,13 @@
     "species": [
       "Human"
     ],
+    "origin": [
+      "Demacia"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -1571,6 +2095,12 @@
     ],
     "species": [
       "Yordle"
+    ],
+    "origin": [
+      "Bandle City"
+    ],
+    "residence": [
+      "The Glade"
     ],
     "range_type": [
       "Ranged"
@@ -1593,6 +2123,13 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "High Silvermere",
+      "Demacia"
+    ],
+    "residence": [
+      "Demacia"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -1613,6 +2150,12 @@
     ],
     "species": [
       "Elemental Golem"
+    ],
+    "origin": [
+      "Ixtal"
+    ],
+    "residence": [
+      "Shuriman Jungle"
     ],
     "range_type": [
       "Melee"
@@ -1635,6 +2178,13 @@
       "Human",
       "Void Touched"
     ],
+    "origin": [
+      "Amakra",
+      "Shurima"
+    ],
+    "residence": [
+      "Icathia"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -1655,6 +2205,12 @@
     ],
     "species": [
       "Treant"
+    ],
+    "origin": [
+      "Blessed Isles"
+    ],
+    "residence": [
+      "Shadow Isles"
     ],
     "range_type": [
       "Melee"
@@ -1677,6 +2233,13 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Wuju",
+      "Ionia"
+    ],
+    "residence": [
+      "Ionia"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -1697,6 +2260,12 @@
     "species": [
       "Human",
       "Magical"
+    ],
+    "origin": [
+      "Noxus"
+    ],
+    "residence": [
+      "Piltover"
     ],
     "range_type": [
       "Ranged"
@@ -1720,6 +2289,11 @@
       "Human",
       "Magical"
     ],
+    "origin": null,
+    "residence": [
+      "Ixaocan",
+      "Ixtal"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -1739,6 +2313,14 @@
     ],
     "species": [
       "Human"
+    ],
+    "origin": [
+      "Bilgewater",
+      "Serpent Isles"
+    ],
+    "residence": [
+      "Bilgewater",
+      "Serpent Isles"
     ],
     "range_type": [
       "Ranged"
@@ -1760,6 +2342,12 @@
     "species": [
       "Shimon"
     ],
+    "origin": [
+      "Ionia"
+    ],
+    "residence": [
+      "Ionia"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -1780,6 +2368,13 @@
     ],
     "species": [
       "Revenant"
+    ],
+    "origin": [
+      "Unknown",
+      "Medieval Times"
+    ],
+    "residence": [
+      "Mitna Rachnun"
     ],
     "range_type": [
       "Melee"
@@ -1804,6 +2399,14 @@
       "Magically Altered",
       "Aspect Host"
     ],
+    "origin": [
+      "Mount Targon"
+    ],
+    "residence": [
+      "Sacred Woods",
+      "Demacia",
+      "Mount Targon"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -1826,6 +2429,8 @@
       "Darkin",
       "Dune Hounds"
     ],
+    "origin": null,
+    "residence": null,
     "range_type": [
       "Melee"
     ],
@@ -1845,6 +2450,14 @@
     ],
     "species": [
       "Marai"
+    ],
+    "origin": [
+      "Marai Village",
+      "Marai Territory"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
     ],
     "range_type": [
       "Ranged"
@@ -1866,6 +2479,13 @@
     "species": [
       "God-Warrior"
     ],
+    "origin": [
+      "Shurima City",
+      "Shurima"
+    ],
+    "residence": [
+      "Shurima"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -1886,6 +2506,13 @@
     "species": [
       "Revenant"
     ],
+    "origin": [
+      "Bilgewater",
+      "Serpent Isles"
+    ],
+    "residence": [
+      "Guardian's Sea"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -1905,6 +2532,14 @@
     ],
     "species": [
       "Oovi-Kat"
+    ],
+    "origin": [
+      "Oovi-Kat Island",
+      "Eternal Ocean"
+    ],
+    "residence": [
+      "Kalduga",
+      "Shuriman Jungle"
     ],
     "range_type": [
       "Ranged"
@@ -1929,6 +2564,12 @@
       "Magical",
       "Vastayan"
     ],
+    "origin": [
+      "Unknown"
+    ],
+    "residence": [
+      "Shuriman Jungle"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -1952,6 +2593,12 @@
       "Magically Altered",
       "Demon"
     ],
+    "origin": [
+      "Kathkan"
+    ],
+    "residence": [
+      "Bilgewater"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -1971,6 +2618,13 @@
     ],
     "species": [
       "Demon"
+    ],
+    "origin": [
+      "Spirit Realm"
+    ],
+    "residence": [
+      "Rocky Highlands",
+      "Demacia"
     ],
     "range_type": [
       "Melee"
@@ -1992,6 +2646,14 @@
     "species": [
       "Human",
       "Magically Altered"
+    ],
+    "origin": [
+      "Notai Tribe",
+      "Freljord"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
     ],
     "range_type": [
       "Melee"
@@ -2015,6 +2677,13 @@
       "Iceborn",
       "[1]"
     ],
+    "origin": [
+      "Lokfar",
+      "Freljord"
+    ],
+    "residence": [
+      "Freljord"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2036,6 +2705,12 @@
       "Techmaturgical",
       "Golem"
     ],
+    "origin": [
+      "Piltover"
+    ],
+    "residence": [
+      "Piltover"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -2055,6 +2730,14 @@
     ],
     "species": [
       "Spirit God"
+    ],
+    "origin": [
+      "Freljord",
+      "(The Formation)"
+    ],
+    "residence": [
+      "Hearth-Home",
+      "Freljord"
     ],
     "range_type": [
       "Melee"
@@ -2076,6 +2759,17 @@
     "species": [
       "Human"
     ],
+    "origin": [
+      "Targon Prime",
+      "Rakkor Caves",
+      "Mount Targon",
+      "Targon"
+    ],
+    "residence": [
+      "Rakkor Caves",
+      "Mount Targon",
+      "Targon"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2096,6 +2790,12 @@
     ],
     "species": [
       "Yordle"
+    ],
+    "origin": [
+      "Bandle City"
+    ],
+    "residence": [
+      "Demacia"
     ],
     "range_type": [
       "Melee"
@@ -2119,6 +2819,14 @@
     "species": [
       "Revenant"
     ],
+    "origin": [
+      "Bilgewater",
+      "Serpent Isles"
+    ],
+    "residence": [
+      "Bilgewater",
+      "Serpent Isles"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2139,6 +2847,14 @@
     "species": [
       "Human",
       "Magical"
+    ],
+    "origin": [
+      "Ixaocan",
+      "Ixtal"
+    ],
+    "residence": [
+      "Ixaocan",
+      "Ixtal"
     ],
     "range_type": [
       "Melee"
@@ -2161,6 +2877,11 @@
     "species": [
       "Human"
     ],
+    "origin": null,
+    "residence": [
+      "Demacia City",
+      "Demacia"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -2180,6 +2901,13 @@
     ],
     "species": [
       "Lhotlan"
+    ],
+    "origin": [
+      "Qaelin",
+      "Ionia"
+    ],
+    "residence": [
+      "Ionia"
     ],
     "range_type": [
       "Melee"
@@ -2201,6 +2929,12 @@
     "species": [
       "Baccai"
     ],
+    "origin": [
+      "Shurima"
+    ],
+    "residence": [
+      "Shurima"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2220,6 +2954,14 @@
     ],
     "species": [
       "Xer'Sai"
+    ],
+    "origin": [
+      "Runeterra",
+      "Shurima"
+    ],
+    "residence": [
+      "Sai Kahleek",
+      "Shurima"
     ],
     "range_type": [
       "Melee"
@@ -2243,6 +2985,12 @@
       "Magical",
       "Magically Altered"
     ],
+    "origin": [
+      "Noxus"
+    ],
+    "residence": [
+      "Noxus"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2264,6 +3012,12 @@
       "Human",
       "Chemically Altered"
     ],
+    "origin": [
+      "Zaun"
+    ],
+    "residence": [
+      "Zaun"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -2284,6 +3038,14 @@
     "species": [
       "God-Warrior"
     ],
+    "origin": [
+      "Shurima City",
+      "Shurima"
+    ],
+    "residence": [
+      "Sai",
+      "Shurima"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2303,6 +3065,14 @@
     ],
     "species": [
       "Kiilash"
+    ],
+    "origin": [
+      "Kiilash Village",
+      "Shuriman Jungle"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
     ],
     "range_type": [
       "Melee"
@@ -2325,6 +3095,14 @@
     "species": [
       "Human"
     ],
+    "origin": [
+      "Trevale",
+      "Noxus"
+    ],
+    "residence": [
+      "Noxus Prime",
+      "Noxus"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2344,6 +3122,12 @@
     ],
     "species": [
       "Yordle"
+    ],
+    "origin": [
+      "Bandle City"
+    ],
+    "residence": [
+      "Bandle City"
     ],
     "range_type": [
       "Melee"
@@ -2367,6 +3151,13 @@
       "Magical",
       "Magically Altered"
     ],
+    "origin": [
+      "Khom"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -2389,6 +3180,13 @@
     "species": [
       "Human"
     ],
+    "origin": [
+      "Amakra",
+      "Shurima"
+    ],
+    "residence": [
+      "Noxus"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -2410,6 +3208,12 @@
       "Human",
       "Iceborn"
     ],
+    "origin": [
+      "Freljord"
+    ],
+    "residence": [
+      "Freljord"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2429,6 +3233,13 @@
     ],
     "species": [
       "Wraith"
+    ],
+    "origin": [
+      "Demacia"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
     ],
     "range_type": [
       "Ranged"
@@ -2453,6 +3264,12 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Piltover"
+    ],
+    "residence": [
+      "Piltover"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -2475,6 +3292,14 @@
       "Magical",
       "Vastayan"
     ],
+    "origin": [
+      "Navori",
+      "Ionia"
+    ],
+    "residence": [
+      "Navori",
+      "Ionia"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2494,6 +3319,13 @@
     ],
     "species": [
       "Unknown"
+    ],
+    "origin": [
+      "Unknown"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
     ],
     "range_type": [
       "Melee"
@@ -2517,6 +3349,14 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Temple of Thanjuul",
+      "Ionia"
+    ],
+    "residence": [
+      "Temple of Koeshin",
+      "Ionia"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2537,6 +3377,12 @@
     "species": [
       "Terrestrial Dragon",
       "Magically Altered"
+    ],
+    "origin": [
+      "Piltover"
+    ],
+    "residence": [
+      "Demacia"
     ],
     "range_type": [
       "Melee"
@@ -2559,6 +3405,12 @@
       "Human",
       "Chemically Altered"
     ],
+    "origin": [
+      "Piltover"
+    ],
+    "residence": [
+      "Zaun"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2578,6 +3430,12 @@
     ],
     "species": [
       "Revenant"
+    ],
+    "origin": [
+      "Noxus"
+    ],
+    "residence": [
+      "Noxus"
     ],
     "range_type": [
       "Melee"
@@ -2599,6 +3457,12 @@
     "species": [
       "Human"
     ],
+    "origin": [
+      "Shurima"
+    ],
+    "residence": [
+      "Shurima"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -2619,6 +3483,13 @@
     "species": [
       "Brackern"
     ],
+    "origin": [
+      "Ixtal"
+    ],
+    "residence": [
+      "Ixaocan",
+      "Ixtal"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2636,6 +3507,12 @@
     "region": null,
     "species": [
       "Dragon"
+    ],
+    "origin": [
+      "Camavor"
+    ],
+    "residence": [
+      "Noxus"
     ],
     "range_type": [
       "Ranged"
@@ -2658,6 +3535,13 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Ionia"
+    ],
+    "residence": [
+      "Demacia City",
+      "Demacia"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -2679,6 +3563,14 @@
     "species": [
       "Celestial"
     ],
+    "origin": [
+      "(Before Runeterra)"
+    ],
+    "residence": [
+      "Astral Grove",
+      "Mount Targon",
+      "Targon"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -2699,6 +3591,14 @@
     "species": [
       "Human",
       "Magically Altered"
+    ],
+    "origin": [
+      "Noxus Prime",
+      "Noxus"
+    ],
+    "residence": [
+      "Noxus Prime",
+      "Noxus"
     ],
     "range_type": [
       "Ranged"
@@ -2723,6 +3623,13 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Dregbourne",
+      "Demacia"
+    ],
+    "residence": [
+      "Freljord"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2744,6 +3651,15 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Navori",
+      "Ionia"
+    ],
+    "residence": [
+      "Fae'lor",
+      "Ionia",
+      "[1]"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -2764,6 +3680,14 @@
     ],
     "species": [
       "Demon"
+    ],
+    "origin": [
+      "Serpentine River",
+      "Shuriman Jungle"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
     ],
     "range_type": [
       "Melee"
@@ -2787,6 +3711,13 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Shurima"
+    ],
+    "residence": [
+      "Sai Kahleek",
+      "Shurima"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -2806,6 +3737,13 @@
     ],
     "species": [
       "Human"
+    ],
+    "origin": [
+      "Noxus Prime",
+      "Noxus"
+    ],
+    "residence": [
+      "Shurima"
     ],
     "range_type": [
       "Melee"
@@ -2829,6 +3767,13 @@
       "Aspect Host",
       "Human"
     ],
+    "origin": [
+      "Demacia"
+    ],
+    "residence": [
+      "Mount Targon",
+      "Targon"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2848,6 +3793,12 @@
     ],
     "species": [
       "Yordle"
+    ],
+    "origin": [
+      "Bandle City"
+    ],
+    "residence": [
+      "Bandle City"
     ],
     "range_type": [
       "Ranged"
@@ -2869,6 +3820,10 @@
     "species": [
       "Wraith"
     ],
+    "origin": [
+      "Blessed Isles"
+    ],
+    "residence": [],
     "range_type": [
       "Ranged"
     ],
@@ -2888,6 +3843,12 @@
     ],
     "species": [
       "Yordle"
+    ],
+    "origin": [
+      "Bandle City"
+    ],
+    "residence": [
+      "Bandle City"
     ],
     "range_type": [
       "Ranged"
@@ -2909,6 +3870,13 @@
     "species": [
       "Troll",
       "Iceborn"
+    ],
+    "origin": [
+      "Freljord"
+    ],
+    "residence": [
+      "Frost-Troll Village",
+      "Freljord"
     ],
     "range_type": [
       "Melee"
@@ -2932,6 +3900,13 @@
       "Human",
       "Magically Altered"
     ],
+    "origin": [
+      "Freljord"
+    ],
+    "residence": [
+      "Freljord",
+      "Frostheld"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -2953,6 +3928,14 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Serpentine River",
+      "The Jungle"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -2973,6 +3956,12 @@
     "species": [
       "Plague Rat",
       "Chemically Altered"
+    ],
+    "origin": [
+      "Zaun"
+    ],
+    "residence": [
+      "Zaun"
     ],
     "range_type": [
       "Ranged"
@@ -2996,6 +3985,14 @@
       "Human",
       "Magical",
       "Vastayan"
+    ],
+    "origin": [
+      "Freljord"
+    ],
+    "residence": [
+      "Freljord",
+      "Hirana Monastery",
+      "Ionia"
     ],
     "range_type": [
       "Melee"
@@ -3021,6 +4018,12 @@
       "Chemically Altered",
       "Cyborg"
     ],
+    "origin": [
+      "Noxus"
+    ],
+    "residence": [
+      "Zaun"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -3042,6 +4045,16 @@
       "Darkin",
       "Human"
     ],
+    "origin": [
+      "Navori",
+      "Ionia",
+      "Pallas",
+      "Ionia",
+      "Shurima"
+    ],
+    "residence": [
+      "Shurima"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -3061,6 +4074,14 @@
     ],
     "species": [
       "Human"
+    ],
+    "origin": [
+      "Demacia City",
+      "Demacia"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
     ],
     "range_type": [
       "Ranged"
@@ -3083,6 +4104,13 @@
     "species": [
       "Yordle"
     ],
+    "origin": [
+      "Bandle City"
+    ],
+    "residence": [
+      "Unknown",
+      "Of no fixed abode"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -3102,6 +4130,13 @@
     ],
     "species": [
       "Voidborn"
+    ],
+    "origin": [
+      "Runeterra",
+      "Shurima"
+    ],
+    "residence": [
+      "Tokogol"
     ],
     "range_type": [
       "Ranged"
@@ -3125,6 +4160,12 @@
     "species": [
       "Yordle"
     ],
+    "origin": [
+      "Bandle City"
+    ],
+    "residence": [
+      "Shadow Isles"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -3144,6 +4185,12 @@
     ],
     "species": [
       "Human"
+    ],
+    "origin": [
+      "Zaun"
+    ],
+    "residence": [
+      "Piltover"
     ],
     "range_type": [
       "Melee"
@@ -3166,6 +4213,12 @@
     "species": [
       "Wraith"
     ],
+    "origin": [
+      "Camavor"
+    ],
+    "residence": [
+      "Camavor"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -3186,6 +4239,12 @@
     "species": [
       "Human",
       "Cyborg"
+    ],
+    "origin": [
+      "Zaun"
+    ],
+    "residence": [
+      "Zaun"
     ],
     "range_type": [
       "Ranged"
@@ -3208,6 +4267,14 @@
       "Human",
       "Magically Altered"
     ],
+    "origin": [
+      "Camavor",
+      "[1]"
+    ],
+    "residence": [
+      "Noxus Prime",
+      "Noxus"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -3228,6 +4295,14 @@
     ],
     "species": [
       "Spirit God"
+    ],
+    "origin": [
+      "Freljord",
+      "(The Formation)"
+    ],
+    "residence": [
+      "Ursine Lands",
+      "Freljord"
     ],
     "range_type": [
       "Melee"
@@ -3252,6 +4327,12 @@
       "Chemically Altered",
       "Cyborg"
     ],
+    "origin": [
+      "Zaun"
+    ],
+    "residence": [
+      "Zaun"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -3273,6 +4354,13 @@
     "species": [
       "Lhotlan"
     ],
+    "origin": [
+      "Qaelin",
+      "Ionia"
+    ],
+    "residence": [
+      "Ionia"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -3293,6 +4381,14 @@
     "species": [
       "Baccai",
       "Human"
+    ],
+    "origin": [
+      "Saikhal",
+      "Shurima"
+    ],
+    "residence": [
+      "Nerimazeth",
+      "Shurima"
     ],
     "range_type": [
       "Ranged"
@@ -3316,6 +4412,14 @@
     "species": [
       "Human"
     ],
+    "origin": [
+      "Raikkon",
+      "Ionia"
+    ],
+    "residence": [
+      "Demacia City",
+      "Demacia"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -3336,6 +4440,13 @@
     "species": [
       "Human",
       "Magical"
+    ],
+    "origin": [
+      "Navori",
+      "Ionia"
+    ],
+    "residence": [
+      "Noxus"
     ],
     "range_type": [
       "Melee"
@@ -3358,6 +4469,13 @@
     "species": [
       "Human",
       "Magically Altered"
+    ],
+    "origin": [
+      "Navori",
+      "Ionia"
+    ],
+    "residence": [
+      "Ionia"
     ],
     "range_type": [
       "Melee"
@@ -3383,6 +4501,12 @@
       "Magical",
       "Magically Altered"
     ],
+    "origin": [
+      "Blessed Isles"
+    ],
+    "residence": [
+      "Shadow Isles"
+    ],
     "range_type": [
       "Melee"
     ],
@@ -3404,6 +4528,13 @@
       "Cat",
       "Magically Altered"
     ],
+    "origin": [
+      "Bandle City"
+    ],
+    "residence": [
+      "Unknown",
+      "Of Fixed Abode"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -3423,6 +4554,12 @@
     ],
     "species": [
       "Ooze Golem"
+    ],
+    "origin": [
+      "Zaun"
+    ],
+    "residence": [
+      "Zaun"
     ],
     "range_type": [
       "Melee"
@@ -3444,6 +4581,13 @@
     "species": [
       "Human",
       "Magically Altered"
+    ],
+    "origin": [
+      "Ionia"
+    ],
+    "residence": [
+      "Temple of Thanjuul",
+      "Ionia"
     ],
     "range_type": [
       "Melee"
@@ -3467,6 +4611,12 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Zaun"
+    ],
+    "residence": [
+      "Zaun"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -3486,6 +4636,12 @@
     ],
     "species": [
       "Yordle"
+    ],
+    "origin": [
+      "Bandle City"
+    ],
+    "residence": [
+      "Zaun"
     ],
     "range_type": [
       "Ranged"
@@ -3510,6 +4666,13 @@
       "Human",
       "Magical"
     ],
+    "origin": [
+      "Icathia"
+    ],
+    "residence": [
+      "Zilean's Tower",
+      "Outside Time"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -3530,6 +4693,14 @@
     "species": [
       "Aspect Host"
     ],
+    "origin": [
+      "Mount Targon",
+      "Targon"
+    ],
+    "residence": [
+      "Unknown",
+      "No Fixed Abode"
+    ],
     "range_type": [
       "Ranged"
     ],
@@ -3549,6 +4720,13 @@
     ],
     "species": [
       "Species"
+    ],
+    "origin": [
+      "Gardens of Zyr",
+      "Shuriman Jungle"
+    ],
+    "residence": [
+      "Shuriman Jungle"
     ],
     "range_type": [
       "Ranged"
