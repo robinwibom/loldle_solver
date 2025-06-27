@@ -29,11 +29,9 @@ class ChampionDataBuilder:
         champions = ddragon.fetch_all_champions()
 
         # 2 & 3. Fandom enrichment + Lolalytics positions in one loop
-        PrintHandler.section("Step 2: Enrich and fetch positions")
+        PrintHandler.section("Step 2: Fetching additional information")
         fandom_report: dict[str, dict] = {}
         lol_report: dict[str, dict] = {}
-
-        i = 0
 
         for champ in ProgressHandler.wrap(champions, description="Processing champions"):
             # Fandom
@@ -43,15 +41,13 @@ class ChampionDataBuilder:
                 champ['gender'] = fpage.gender
             champ['region'] = fpage.region
             champ['species'] = fpage.species
+            champ['range_type'] = fpage.range_type
+            champ['release_date'] = fpage.release_date
 
             # Lolalytics
             lpage = LolalyticsChampionPage(champ['name'], session=self.session, verbose=self.verbose)
             lol_report[champ['name']] = {'failed': lpage.failed_urls, 'success': lpage.success_url}
             champ['positions'] = lpage.positions or []
-
-            i += 1
-            if i >= 120:
-                break
 
         self.url_report['fandom'] = fandom_report
         self.url_report['lolalytics'] = lol_report
